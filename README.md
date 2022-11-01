@@ -27,25 +27,25 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 ### Soft Skills:
 
-- Problem-solving
+- **Problem-solving**
 
-- Self-direction 
+- **Self-direction** 
 
-- Effective communication
+- **Effective communication**
 
-- Teamwork 
+- **Teamwork**
 
-- Adaptability
+- **Adaptability**
 
-- Flexibility
+- **Flexibility**
 
-- Strong work-ethic
+- **Strong work-ethic**
 
-- Leadership
+- **Leadership**
 
-- Creativity
+- **Creativity**
 
-- Conflict resolution
+- **Conflict resolution**
 
 ---
 
@@ -63,7 +63,7 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 - 👨‍💻 All of my projects are available at: **[https://www.github.com/jjkrasnick](https://www.github.com/jjkrasnick)**
 
-- 💬 Ask me about: **coding, machine learning, AI development, math**
+- 💬 Ask me about: **Coding, Machine Learning, AI Development**
 
 - 📄 Know about my experiences, find my resume, and also please connect with me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 

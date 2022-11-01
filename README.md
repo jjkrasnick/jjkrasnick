@@ -55,7 +55,7 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 - 🌱 I’m currently learning: **Data Science, Machine Learning, Deep Learning**
 
-- 👯 I’m looking to collaborate on **An undergraduate-research project/assignment!**
+- 👯 I’m looking to collaborate on: **An undergraduate-research project/assignment!**
 
 - 📫 How to reach me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 
@@ -63,7 +63,7 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 - 👨‍💻 All of my projects are available at: **[https://www.github.com/jjkrasnick](https://www.github.com/jjkrasnick)**
 
-- 💬 Ask me about **coding, machine learning, AI development, math**
+- 💬 Ask me about: **coding, machine learning, AI development, math**
 
 - 📄 Know about my experiences, find my resume, and also please connect with me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 

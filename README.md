@@ -53,15 +53,15 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 - 🔭 I’m currently working on: **My Portfolio Website in HTML/CSS, JavaScript, and React**
 
-- 🌱 I’m currently learning: **Data Science and Machine Learning**
+- 🌱 I’m currently learning: **Data Science, Machine Learning, Deep Learning**
 
 - 📫 How to reach me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 
-- 🤝 I’m looking for help with: **finding 2023 Summer Internships!**
+- 🤝 I’m looking for help with: **Finding 2023 Summer Internships!**
 
-- 👨‍💻 All of my projects are available at: [https://www.github.com/jjkrasnick](https://www.github.com/jjkrasnick)
+- 👨‍💻 All of my projects are available at: **[https://www.github.com/jjkrasnick](https://www.github.com/jjkrasnick)**
 
-- 📄 Know about my experiences, find my resume, and also please connect with me: [https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)
+- 📄 Know about my experiences, find my resume, and also please connect with me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 
 - ⚡ Fun fact: **I have 3 citizenships: United States, Canadian, and Swedish!**
 

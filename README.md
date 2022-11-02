@@ -1,7 +1,7 @@
 # JJ Krasnick's GitHub Profile
 
 <h1 align="center">Hi 👋, I'm JJ Krasnick!</h1>
-<h3 align="center">Passionate Full-Stack Developer | Computer Science/Mathematics Major | Data Science Minor</h3>
+<h3 align="center">Full-Stack Developer | Computer Science/Mathematics Major | Data Science Minor</h3>
 
 **`(Software Engineer, Full-Stack Developer, Data Scientist)`**
 
@@ -65,7 +65,7 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 - 💬 Ask me about: **Coding, Machine Learning, AI Development**
 
-- 📄 Know about my experiences, find my resume, and also please connect with me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
+- 📄 Know about my experiences, find my resume, and connect with me: **[https://www.linkedin.com/in/jjkrasnick] (https://www.linkedin.com/in/jjkrasnick)**
 
 - ⚡ Fun fact: **I have 3 citizenships: United States, Canadian, and Swedish!**
 

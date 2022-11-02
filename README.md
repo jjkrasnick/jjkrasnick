@@ -65,7 +65,7 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 - 💬 Ask me about: **Coding, Machine Learning, AI Development**
 
-- 📄 Know about my experiences, find my resume, and connect with me: **[https://www.linkedin.com/in/jjkrasnick] (https://www.linkedin.com/in/jjkrasnick)**
+- 📄 Know about my experiences, find my resume, and connect with me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 
 - ⚡ Fun fact: **I have 3 citizenships: United States, Canadian, and Swedish!**
 

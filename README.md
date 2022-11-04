@@ -5,6 +5,8 @@
 
 **`(Software Engineer, Full-Stack Developer, Data Scientist)`**
 
+---
+
 ### Summary:
 
 I am an aspiring full-stack developer, that has a passion for helping build up the digital world, one step at a time. All of my coding projects are built from the ground up, from planning and designing, all the way to solving real-life problems with my code.

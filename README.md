@@ -73,7 +73,11 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 ---
 
-![JJ Krasnick's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&theme=dracula)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjkrasnick&show_icons=true&locale=en&layout=compact" alt="jjkrasnick" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&locale=en" alt="jjkrasnick" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjkrasnick&" alt="jjkrasnick" /></p>
 
 ---
 
@@ -81,6 +85,7 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 <p align="left">
 <a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjkrasnick" height="30" width="40" /></a>
 <a href="https://twitter.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jjkrasnick" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jjkrasnick" height="30" width="40" /></a>
 <a href="https://kaggle.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jjkrasnick" height="30" width="40" /></a>
 <a href="https://fb.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jjkrasnick" height="30" width="40" /></a>
 <a href="https://instagram.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjkrasnick" height="30" width="40" /></a>

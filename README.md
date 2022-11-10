@@ -9,13 +9,34 @@
 
 ### Summary:
 
-I am an aspiring full-stack developer, that has a passion for helping build up the digital world, one step at a time. All of my coding projects are built from the ground up, from planning and designing, all the way to solving real-life problems with my code.
+I am an aspiring full-stack developer, that has a passion for helping build up the digital world, one step at a time. 
 
-I am a second-year computer science student, aspiring Software Engineer and Data Scientist, with one year of experience performing Python, SQL, and R, in the software engineering industry at the University of North Carolina at Chapel Hill as an Undergraduate Research Assistant. I primarily helped with cleansing and sorting through datasets, and my ambition is to one day, help more big tech companies become more efficient in providing their products to the consumers through the use of data and developed code. 
+I am a second-year computer science student, aspiring Software Engineer, and Data Scientist with one year of experience performing Python, SQL, and R, in the software engineering industry at the University of North Carolina at Chapel Hill as an Undergraduate Research Assistant. I primarily helped with cleansing and sorting through datasets. My ambition is to one day help companies become more efficient in providing their products to consumers through data and developed code. My projects are built from the ground up, from planning and designing to solving real-life problems with code.
 
-My passion for being able to constantly learn, thrive, and to be challenged in the field of software engineering and business led me to pursue my bachelor's degree for Computer Science and Mathematics, with a minor in Data Science, and another bachelor's degree in International Business at Pepperdine University, a top 50 nationally ranked school by the US News. 
+My passion for being able to constantly learn, thrive, and be challenged in the field of software engineering and business led me to pursue my bachelor's degree in Computer Science with a focus on Mathematics, with a minor in Data Science and Applied Mathematics, and another bachelor's degree in International Business at Pepperdine University, a top 50 nationally ranked school by the US News. 
 
-I am thrilled about opportunities and challenges that allow me to utilize my skills (e.g., Parsing big data, Java, Python, R, SQL) so I can help turn data and numbers into easily quantifiable metrics that make it easy to convey to the SME what their specific problem is. I'd love to be able to use my insights to help drive growth within a team, and a company.
+***Technical Skills:***
+
+I typically perform HTML/CSS and JavaScript in the client, I use Python, Go, and Java within the server, and I use HTTP for communications between the client and the server. I am parsing through datasets with Tableau or Power BI, using SQL and R for scripting, parsing, and cleansing big data. 
+
+
+***Highlights:***
+
+- Constructed and advised a back-end system using hash maps in a six-person team to deliver code for production. 
+
+- Advised employees to analyze and improve product performance by caching and optimizing SQL queries.
+
+- Distributed services to a local store; measured 85.39% accuracy in budgeting, reduced 15.31% in unallocated resources.  
+
+- Negotiated our application model to 14 businesses; 85.71% of the companies used our back-end system.
+
+- Back-tested linear model for underfitting, and overfitting, across different thresholds.
+
+***Summary:***
+
+I am thrilled about opportunities and challenges that allow me to utilize my skills to help turn data and numbers into easily quantifiable metrics that make it easy to convey their specific problem. I would love to use my insights to help drive growth within a team and a company.
+
+I love hearing about new experiences and ideas from different people. If this sounds like you, please connect with me here on GitHub/LinkedIn! 
 
 I am currently looking for Summer 2023 Internships. My resume is currently on my LinkedIn profile if you want to take a look!
 

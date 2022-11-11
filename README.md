@@ -11,7 +11,7 @@
 
 I am an aspiring full-stack developer, that has a passion for helping build up the digital world, one step at a time. 
 
-I am a second-year computer science student, aspiring Software Engineer, and Data Scientist with one year of experience performing Python, SQL, and R, in the software engineering industry at the University of North Carolina at Chapel Hill as an Undergraduate Research Assistant. I primarily helped with cleansing and sorting through datasets. My ambition is to one day help companies become more efficient in providing their products to consumers through data and developed code. My projects are built from the ground up, from planning and designing to solving real-life problems with code.
+I am a first-year computer science student, aspiring Software Engineer, and Data Scientist with one year of experience performing Python, SQL, and R, in the software engineering industry at the University of North Carolina at Chapel Hill as an Undergraduate Research Assistant. I primarily helped with cleansing and sorting through datasets. My ambition is to one day help companies become more efficient in providing their products to consumers through data and developed code. My projects are built from the ground up, from planning and designing to solving real-life problems with code.
 
 My passion for being able to constantly learn, thrive, and be challenged in the field of software engineering and business led me to pursue my bachelor's degree in Computer Science with a focus on Mathematics, with a minor in Data Science and Applied Mathematics, and another bachelor's degree in International Business at Pepperdine University, a top 50 nationally ranked school by the US News. 
 

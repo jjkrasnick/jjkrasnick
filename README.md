@@ -74,9 +74,9 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 ### About Me:
 
-- 🔭 I’m currently working on: **My Portfolio Website in HTML/CSS, JavaScript, and React**
+- 🔭 I’m currently working on: **My Portfolio Website using Vite, JavaScript, React, Tailwind, GitHub!**
 
-- 🌱 I’m currently learning: **Data Science, Machine Learning, Deep Learning**
+- 🌱 I’m currently learning: **Data Science, Machine Learning, Data Structures and Algorithims!**
 
 - 👯 I’m looking to collaborate on: **An undergraduate-research project/assignment!**
 
@@ -86,7 +86,7 @@ I am currently looking for Summer 2023 Internships. My resume is currently on my
 
 - 👨‍💻 All of my projects are available at: **[https://www.github.com/jjkrasnick](https://www.github.com/jjkrasnick)**
 
-- 💬 Ask me about: **Coding, Machine Learning, AI Development**
+- 💬 Ask me about: **Coding, Machine Learning, Deep Learning, and AI Development!**
 
 - 📄 Know about my experiences, find my resume, and connect with me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 

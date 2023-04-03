@@ -1,9 +1,9 @@
 # JJ Krasnick's GitHub Profile
 
 <h1 align="center">Hi 👋, I'm JJ Krasnick!</h1>
-<h3 align="center">Full-Stack Developer | Computer Science/Mathematics Major | Data Science Minor</h3>
+<h3 align="center">Full-Stack Developer | Computer Science Major | Mathematics Major | Data Science Minor | Physics Minor</h3>
 
-**`(Software Engineer, Full-Stack Developer, Data Scientist)`**
+**`(Software Engineer, Full-Stack Developer, Data Scientist, Quant Trader, Quant Researcher)`**
 
 ---
 
@@ -11,9 +11,11 @@
 
 I am an aspiring full-stack developer, that has a passion for helping build up the digital world, one step at a time. 
 
-I am a first-year computer science student, aspiring Software Engineer, Quant Trader, and Data Scientist with one year of experience performing Python, SQL, and R, in the software engineering industry at the University of North Carolina at Chapel Hill as an Undergraduate Research Assistant. I primarily helped with cleansing and sorting through datasets. My ambition is to one day help companies become more efficient in providing their products to consumers through data and developed code. My projects are built from the ground up, from planning and designing to solving real-life problems with code.
+I am a first-year computer science student, aspiring Software Engineer, Quant Trader, and Data Scientist with one year of experience performing Python, SQL, and R in the software engineering industry at the University of North Carolina at Chapel Hill as an Undergraduate Research Assistant, and at Pepperdine University as an Undergraduate Research Assistant in the Data Science Department. I primarily helped with cleansing and sorting through datasets. I aim to help companies become more efficient in providing their products to consumers through data and developed code. My projects are built from the ground up, from planning and designing to solving real-life problems with code.
 
-My passion for being able to constantly learn, thrive, and be challenged in the field of software engineering and business led me to pursue my bachelor's degree in Computer Science with a focus on Mathematics, with a minor in Data Science and Applied Mathematics, and another bachelor's degree in International Business at Pepperdine University, a top 50 nationally ranked school by the US News. 
+My passion for being able to constantly learn, thrive, and be challenged in the field of software engineering and business led me to pursue my double bachelor's degree in Computer Science, Mathematics, with a minor in Data Science and Physics, and another three bachelor's degree in International Business, Finance, and Economics with a minor in Marketing, at Pepperdine University, a top 50 nationally ranked school by the US News. 
+
+I am also pursuing my Certificate in Conflict Management and Dispute Resolution at a top 50 Law School in the Caruso School of Law and the #1 Ranked institution for Dispute Resolution in the world at, Straus Center for Dispute Resolution at Pepperdine University.
 
 ***Technical Skills:***
 
@@ -39,6 +41,10 @@ I am thrilled about opportunities and challenges that allow me to utilize my ski
 I love hearing about new experiences and ideas from different people. If this sounds like you, please connect with me here on GitHub/LinkedIn! 
 
 I am currently looking for Summer 2023 Internships. My resume is currently on my LinkedIn profile if you want to take a look!
+
+JJ Krasnick's Handshake Profile:
+
+https://pepperdine.joinhandshake.com/stu/users/32206118
 
 ---
 

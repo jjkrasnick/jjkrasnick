@@ -40,7 +40,7 @@ I am thrilled about opportunities and challenges that allow me to utilize my ski
 
 I love hearing about new experiences and ideas from different people. If this sounds like you, please connect with me here on GitHub/LinkedIn! 
 
-I am currently looking for Summer 2024 Internships. My resume is currently on my LinkedIn profile if you want to take a look!
+I am currently looking for Spring/Summer 2024 Internships. My resume is currently on my LinkedIn profile if you want to take a look!
 
 ---
 
@@ -84,7 +84,7 @@ I am currently looking for Summer 2024 Internships. My resume is currently on my
 
 - 📫 How to reach me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 
-- 🤝 I’m looking for help with: **Finding 2023 Summer Internships!**
+- 🤝 I’m looking for help with: **Finding 2024 Spring/Summer Internships!**
 
 - 👨‍💻 All of my projects are available at: **[https://www.github.com/jjkrasnick](https://www.github.com/jjkrasnick)**
 

@@ -33,32 +33,6 @@ Please feel free to contact me at jjkrasnick23@gmail.com.
 
 ---
 
-### Soft Skills:
-
-- **Problem-solving**
-
-- **Self-direction** 
-
-- **Effective communication**
-
-- **Teamwork**
-
-- **Adaptability**
-
-- **Flexibility**
-
-- **Strong work-ethic**
-
-- **Leadership**
-
-- **Creativity**
-
-- **Conflict resolution**
-
-- **Agile Development/Agile Methodoligies**
-
----
-
 ### About Me:
 
 - 🔭 I’m currently working on: **My Portfolio Website using Vite, JavaScript, React, Tailwind, and hosting it on GitHub!**
@@ -82,8 +56,6 @@ Please feel free to contact me at jjkrasnick23@gmail.com.
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjkrasnick&show_icons=true&locale=en&layout=compact" alt="jjkrasnick" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&locale=en" alt="jjkrasnick" /></p>
 
 ---
 

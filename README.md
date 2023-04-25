@@ -1,4 +1,4 @@
-# JJ Krasnick's GitHub Profile ReadMe:
+# Welcome to JJ Krasnick's GitHub Profile:
 
 [![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)](https://www.linkedin.com/in/jjkrasnick/)
 

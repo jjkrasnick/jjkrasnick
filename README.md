@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm JJ Krasnick!</h1>
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
 
-<h4 align="center">**`(Software Engineer, Full-Stack Developer, Data Scientist, Quant Trader, Quant Researcher)`**</h4>
+**`(Software Engineer, Full-Stack Developer, Data Scientist, Quant Trader, Quant Researcher)`**
 
 ---
 

@@ -78,7 +78,7 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 ---
 
 <a href="https://github.com/jjkrasnick/jjkrasnick">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=jjkrasnick)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=jjkrasnick" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />

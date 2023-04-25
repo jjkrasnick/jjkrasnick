@@ -88,3 +88,4 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=amazon-web-scraper)](https://github.com/jjkrasnick/amazon-web-scraper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=automate-api-extraction)](https://github.com/jjkrasnick/automate-api-extraction)
 
+

@@ -48,7 +48,7 @@ My diverse academic background and practical experience make me a strong candida
 Please contact and connect with me on my LinkedIn if you want to learn more!
 
 <img algin="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-
+ 
 ---
 
 ### 🧰 Languages, Frameworks, and Tools:
@@ -77,6 +77,8 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 
 - ⚡ Fun fact: **[I have three citizenships: United States, Canadian, and Swedish!](https://www.linkedin.com/in/jjkrasnick/)**
 
+<img algin="center" alt="Coding2" width="200" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=4w%2bf0%2bwXD64BFg&pid=ImgRaw&r=0">
+    
 ---
 
 <h3 align="left">:grin: Connect with me:</h3>

@@ -68,3 +68,4 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=jjkrasnick)](https://github.com/jjkrasnick/jjkrasnick)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=Credit-Card-Fraud-Detection)](https://github.com/jjkrasnick/Credit-Card-Fraud-Detection)

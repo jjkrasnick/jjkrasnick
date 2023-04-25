@@ -28,6 +28,10 @@
 
 ### ♟️ Summary:
 
+Hi everyone! My name is JJ Krasnick! 
+
+I am a current first-year (freshman) at Pepperdine University! (Ayo, Waves! 🌊) Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
+  
 As a triple major in Computer Science, Mathematics, and Physics with a minor in Data Science, I possess a unique blend of technical skills that make me a strong candidate for SDE/SWE/Quant roles. My experience in software engineering, AI/ML, and quantitative trading through research and personal projects have provided me with a solid foundation to excel in these fields.
 
 My expertise in natural language processing, computer vision, and machine learning aligns well with the requirements of AI/ML roles. I have experience developing machine learning models using Python, TensorFlow, and other tools to analyze large datasets and create predictions with high accuracy. My computer vision and natural language processing proficiency have allowed me to build systems that interpret and respond to visual and textual inputs.

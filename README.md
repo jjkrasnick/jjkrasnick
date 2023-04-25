@@ -25,7 +25,7 @@
 
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
 
-**`(Software Engineer, Full-Stack Developer, Data Scientist, Quant Trader, Quant Researcher)`**
+**`(Software Engineer, Full-Stack Developer, Data Scientist, Quantitative Trader, Quantitative Researcher, Machine Learning)`**
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -35,9 +35,7 @@
 
 ### ♟️ Summary:
 
-Hi everyone! My name is JJ Krasnick! 
-
-I am a current first-year (freshman) at a top 50 nationally ranked school, Pepperdine University! (Ayo, Waves! 🌊) Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
+I am a current first-year (freshman) at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! (Ayo, Waves! 🌊) Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
   
 As a triple major in Computer Science, Mathematics, and Physics with a minor in Data Science, I possess a unique blend of technical skills that make me a strong candidate for SDE/SWE/Quant roles. My experience in software engineering, AI/ML, and quantitative trading through research and personal projects have provided me with a solid foundation to excel in these fields.
 
@@ -49,7 +47,7 @@ Furthermore, I have participated in hackathons and coding competitions, which ha
 
 As a quantitative trader, my proficiency in mathematical modeling, statistical analysis, and algorithmic trading makes me a strong candidate for Quant roles. I have created trading strategies using quantitative methods that have improved efficiency by 230%. My experience in financial modeling, portfolio optimization, and risk management enables me to analyze market trends and develop effective trading strategies.
 
-Finally, I am pursuing a Certificate in Conflict Management and Dispute Resolution at a top 50 Law School in the Caruso School of Law and the #1 Ranked institution for Dispute Resolution in the world at Straus Center for Dispute Resolution at Pepperdine University. This experience has honed my conflict resolution, negotiation, and communication skills, which are valuable in any SDE/SWE/Quant role.
+Finally, I am pursuing a [Certificate in Conflict Management and Dispute Resolution](https://seaver.pepperdine.edu/communication/undergraduate/conflict-management/) at a top 50 Law School in the Caruso School of Law and the #1 Ranked institution for Dispute Resolution in the world at Straus Center for Dispute Resolution at Pepperdine University. This experience has honed my conflict resolution, negotiation, and communication skills, which are valuable in any SDE/SWE/Quant role.
 
 My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
 
@@ -77,11 +75,11 @@ Please contact and connect with me on my **[LinkedIn](https://www.linkedin.com/i
 
 - 🤝 I’m looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 Internships!](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨‍💻 All of my projects are available at: **[https://www.github.com/jjkrasnick](https://www.github.com/jjkrasnick)**
+- 👨‍💻 All of my projects are available at: **[JJ's GitHub](https://www.github.com/jjkrasnick)**
 
 - 💬 Ask me about: **[Machine Learning, Deep Learning, and AI Development!](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 📄 Know about my experiences, find my resume, and connect with me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
+- 📄 Know about my experiences, find my resume, and connect with me: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick)**
 
 - ⚡ Fun fact: **[I have three citizenships: United States, Canadian, and Swedish!](https://www.linkedin.com/in/jjkrasnick/)**
 

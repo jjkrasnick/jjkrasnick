@@ -67,7 +67,6 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=jjkrasnick)](https://github.com/jjkrasnick/jjkrasnick)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=Credit-Card-Fraud-Detection)](https://github.com/jjkrasnick/Credit-Card-Fraud-Detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=diabetes-predictor)](https://github.com/jjkrasnick/diabetes-predictor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=covid-facemask-detection)](https://github.com/jjkrasnick/covid-facemask-detection)
@@ -80,6 +79,21 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 <a href="https://github.com/jjkrasnick/jjkrasnick">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=jjkrasnick" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/jjkrasnick/Credit-Card-Fraud-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=Credit-Card-Fraud-Detection" />
+</a>
+<a href="https://github.com/jjkrasnick/diabetes-predictor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=diabetes-predictor" />
+</a>
+<a href="https://github.com/jjkrasnick/jjkrasnick">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=jjkrasnick" />
+</a>
+<a href="https://github.com/jjkrasnick/jjkrasnick">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=jjkrasnick" />
+</a>
+<a href="https://github.com/jjkrasnick/jjkrasnick">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=jjkrasnick" />
+</a>
+<a href="https://github.com/jjkrasnick/jjkrasnick">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=jjkrasnick" />
 </a>

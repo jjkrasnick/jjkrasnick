@@ -73,9 +73,9 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 
 ![JJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&theme=dark&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjkrasnick&theme=dark&show_icons=true" alt="jjkrasnick" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjkrasnick&theme=dark&layout=compact" alt="jjkrasnick" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjkrasnick&theme=dark&show_icons=true" alt="jjkrasnick" /></p>
 
 ---
 

@@ -30,7 +30,7 @@
 
 Hi everyone! My name is JJ Krasnick! 
 
-I am a current first-year (freshman) at Pepperdine University! (Ayo, Waves! 🌊) Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
+I am a current first-year (freshman) at a top 50 nationally ranked school, Pepperdine University! (Ayo, Waves! 🌊) Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
   
 As a triple major in Computer Science, Mathematics, and Physics with a minor in Data Science, I possess a unique blend of technical skills that make me a strong candidate for SDE/SWE/Quant roles. My experience in software engineering, AI/ML, and quantitative trading through research and personal projects have provided me with a solid foundation to excel in these fields.
 

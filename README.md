@@ -1,4 +1,4 @@
-# Welcome to JJ Krasnick's GitHub Profile:
+# 🎾 Welcome to JJ Krasnick's GitHub Profile:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -46,7 +46,7 @@ Finally, I am pursuing a Certificate in Conflict Management and Dispute Resoluti
 
 My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
 
-Please contact and connect with me on my LinkedIn if you want to learn more!
+Please contact and connect with me on my **[LinkedIn](https://www.linkedin.com/in/jjkrasnick)** if you want to learn more!
 
 <img algin="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
  

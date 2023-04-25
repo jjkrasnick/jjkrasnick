@@ -9,38 +9,21 @@
 
 ### Summary:
 
-I am an aspiring full-stack developer passionate about helping build up the digital world, one step at a time.
+As a triple major in Computer Science, Mathematics, and Physics with a minor in Data Science, I possess a unique blend of technical skills that make me a strong candidate for SDE/SWE/Quant roles. My experience in software engineering, AI/ML, and quantitative trading through research and personal projects have provided me with a solid foundation to excel in these fields.
 
-I am a first-year computer science student, aspiring Software Engineer, Quant Trader, and Data Scientist with one year of experience performing Python, SQL, and R in the software engineering industry at the University of North Carolina State as an Undergraduate Research Assistant in the Computer Engineering Department, and at Pepperdine University as an Undergraduate Research Assistant in the Keck Data Science Department. I primarily helped with cleansing and sorting through datasets. I aim to help companies become more efficient in providing their products to consumers through data and developed code. My projects are built from the ground up, from planning and designing to solving real-life problems with code.
+My expertise in natural language processing, computer vision, and machine learning aligns well with the requirements of AI/ML roles. I have experience developing machine learning models using Python, TensorFlow, and other tools to analyze large datasets and create predictions with high accuracy. My computer vision and natural language processing proficiency have allowed me to build systems that interpret and respond to visual and textual inputs.
 
-My passion for being able to constantly learn, thrive, and be challenged in the field of software engineering and business led me to pursue my double bachelor's degree in Computer Science and Mathematics, with a minor in Data Science and Physics, at Pepperdine University, a top 50 nationally ranked school by the US News.
+In addition, I have completed personal projects demonstrating my software engineering skills, including building web applications and developing algorithms for data analysis. I have experience with programming languages like Python, Java, C++, and SQL, as well as data modeling, statistical analysis, and visualization. These skills are essential for SWE roles where I can leverage my knowledge to create innovative software solutions that solve complex problems.
 
-I am also pursuing my Certificate in Conflict Management and Dispute Resolution at a top 50 Law School in the Caruso School of Law and the #1 Ranked institution for Dispute Resolution in the world at Straus Center for Dispute Resolution at Pepperdine University.
+Furthermore, I have participated in hackathons and coding competitions, which have allowed me to work collaboratively with other developers, solve challenging problems under pressure, and develop my presentation and communication skills.
 
-***Technical Skills:***
+As a quantitative trader, my proficiency in mathematical modeling, statistical analysis, and algorithmic trading makes me a strong candidate for Quant roles. I have created trading strategies using quantitative methods that have improved efficiency by 230%. My experience in financial modeling, portfolio optimization, and risk management enables me to analyze market trends and develop effective trading strategies.
 
-I typically perform HTML/CSS and JavaScript in the client, I use Python, Go, and Java within the server, and I use HTTP for communications between the client and the server. I am parsing through datasets with Tableau or Power BI, using SQL and R for scripting, parsing, and cleansing big data. 
+Finally, I am pursuing a Certificate in Conflict Management and Dispute Resolution at a top 50 Law School in the Caruso School of Law and the #1 Ranked institution for Dispute Resolution in the world at Straus Center for Dispute Resolution at Pepperdine University. This experience has honed my conflict resolution, negotiation, and communication skills, which are valuable in any SDE/SWE/Quant role.
 
+My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
 
-***Highlights:***
-
-- Constructed and advised a back-end system using hash maps in a six-person team to deliver code for production. 
-
-- Advised employees to analyze and improve product performance by caching and optimizing SQL queries.
-
-- Distributed services to a local store; measured 85.39% accuracy in budgeting, reduced 15.31% in unallocated resources.  
-
-- Negotiated our application model to 14 businesses; 85.71% of the companies used our back-end system.
-
-- Back-tested linear model for underfitting, and overfitting, across different thresholds.
-
-***Summary:***
-
-I am thrilled about opportunities and challenges that allow me to utilize my skills to help turn data and numbers into easily quantifiable metrics that make it easy to convey their specific problem. I would love to use my insights to help drive growth within a team and a company.
-
-I love hearing about new experiences and ideas from different people. If this sounds like you, please connect with me here on GitHub/LinkedIn! 
-
-I am currently looking for Spring/Summer 2024 Internships. My resume is currently on my LinkedIn profile if you want to take a look!
+Please feel free to contact me at jjkrasnick23@gmail.com.
 
 ---
 
@@ -78,11 +61,11 @@ I am currently looking for Spring/Summer 2024 Internships. My resume is currentl
 
 ### About Me:
 
-- 🔭 I’m currently working on: **My Portfolio Website using Vite, JavaScript, React, Tailwind, GitHub!**
+- 🔭 I’m currently working on: **My Portfolio Website using Vite, JavaScript, React, Tailwind, and hosting it on GitHub!**
 
 - 🌱 I’m currently learning: **Data Science, Machine Learning, Data Structures and Algorithims!**
 
-- 👯 I’m looking to collaborate on: **An undergraduate-research project/assignment!**
+- 👯 I’m looking to collaborate on: **An undergraduate-research project for the Summer of 2023!**
 
 - 📫 How to reach me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 

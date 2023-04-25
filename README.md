@@ -55,15 +55,6 @@ Please feel free to contact me at jjkrasnick23@gmail.com.
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjkrasnick&show_icons=true&locale=en&layout=compact" alt="jjkrasnick" /></p>
-
-
-
-
-
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dev.jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.jjkrasnick" height="30" width="40" /></a>

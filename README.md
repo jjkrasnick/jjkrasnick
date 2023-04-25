@@ -1,4 +1,6 @@
-# JJ Krasnick's GitHub Profile
+# JJ Krasnick's GitHub Profile ReadMe:
+
+[![MasterHead](https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif)](https://www.linkedin.com/in/jjkrasnick/)
 
 <h1 align="center">Hi 👋, I'm JJ Krasnick!</h1>
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
@@ -24,6 +26,8 @@ Finally, I am pursuing a Certificate in Conflict Management and Dispute Resoluti
 My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
 
 Please contact and connect with me on my LinkedIn if you want to learn more!
+
+<img algin="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 ---
 

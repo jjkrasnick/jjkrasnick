@@ -1,6 +1,6 @@
 # JJ Krasnick's GitHub Profile ReadMe:
 
-[![MasterHead](https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif)](https://www.linkedin.com/in/jjkrasnick/)
+[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)](https://www.linkedin.com/in/jjkrasnick/)
 
 <h1 align="center">Hi 👋, I'm JJ Krasnick!</h1>
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>

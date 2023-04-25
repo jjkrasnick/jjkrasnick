@@ -74,3 +74,7 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 />
 <img src="https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true" />
 </picture>
+
+---
+
+![JJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&theme=dark&show_icons=true)

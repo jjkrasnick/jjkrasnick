@@ -1,7 +1,7 @@
 # JJ Krasnick's GitHub Profile
 
 <h1 align="center">Hi 👋, I'm JJ Krasnick!</h1>
-<h3 align="center">Full-Stack Developer | Computer Science Major | Mathematics Major | Data Science Minor | Physics Minor</h3>
+<h3 align="center">Computer Science (Mathematics) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
 
 **`(Software Engineer, Full-Stack Developer, Data Scientist, Quant Trader, Quant Researcher)`**
 

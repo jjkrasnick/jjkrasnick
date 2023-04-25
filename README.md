@@ -10,10 +10,7 @@
   </a>
 </div>
 
-<div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=jjkrasnick&style=flat-square&color=blue" alt=""/>
-</div>
-
+![JJ's Header](https://media.licdn.com/dms/image/D5616AQG5B5EWrfGsdQ/profile-displaybackgroundimage-shrink_350_1400/0/1680843870193?e=1687996800&v=beta&t=S3XrIdgUJDXtreT85V6Eiz5nxkqQ1THXUkPnIx-bgeQ)
 <h1>
   <h1 align="center">Hi everyone, I'm JJ Krasnick! Welcome to my Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -77,6 +74,8 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 
 - ⚡ Fun fact: **[I have three citizenships: United States, Canadian, and Swedish!](https://www.linkedin.com/in/jjkrasnick/)**
 
+- 😄 Pronouns: **[He/Him/His](https://www.linkedin.com/in/jjkrasnick/)**  
+
 <img algin="center" alt="Coding2" width="200" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=4w%2bf0%2bwXD64BFg&pid=ImgRaw&r=0">
     
 ---
@@ -86,8 +85,6 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 <a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjkrasnick" height="50" width="50" /></a>  
 <a href="https://www.hackerrank.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjkrasnick" height="50" width="50" /></a>
 </p>
-<a href="https://medium.com/@jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jjkrasnick" height="50" width="50" /></a>
-<a href="https://kaggle.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jjkrasnick" height="50" width="50" /></a>
 
 ---
 

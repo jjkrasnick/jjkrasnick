@@ -77,4 +77,4 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&repo=github-readme-stats)](https://github.com/jjkrasnick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick&layout=compact)](https://github.com/jjkrasnick/github-readme-stats)

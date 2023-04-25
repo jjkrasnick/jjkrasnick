@@ -60,7 +60,9 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 <a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjkrasnick" height="60" width="60" /></a>  
 <a href="https://www.hackerrank.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjkrasnick" height="60" width="60" /></a>
 </p>
-<p align="left"> <a href="https://twitter.com/jjkrasnick" target="blank"><img src="https://img.shields.io/twitter/follow/jjkrasnick?logo=twitter&style=for-the-badge" alt="jjkrasnick" /></a> </p>
+<a href="https://medium.com/@jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jjkrasnick" height="60" width="60" /></a>
+<a href="https://kaggle.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jjkrasnick" height="60" width="60" /></a>
+
 ---
 
 ### Stats:
@@ -68,6 +70,8 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 ![JJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&theme=dark&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjkrasnick&theme=dark&show_icons=true" alt="jjkrasnick" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjkrasnick&theme=dark&show_icons=true&locale=en&layout=compact" alt="jjkrasnick" /></p>
 
 ---
 

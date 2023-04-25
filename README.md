@@ -1,7 +1,7 @@
 # JJ Krasnick's GitHub Profile
 
 <h1 align="center">Hi 👋, I'm JJ Krasnick!</h1>
-<h3 align="center">Computer Science (Mathematics) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
+<h4 align="center">Computer Science (Mathematics) Major | Mathematics Major | Physics Major | Data Science Minor</h4>
 
 **`(Software Engineer, Full-Stack Developer, Data Scientist, Quant Trader, Quant Researcher)`**
 
@@ -37,7 +37,7 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 
 - 🔭 I’m currently working on: **My Portfolio Website using Vite, JavaScript, React, Tailwind, TypeScript, and hosting it on GitHub!**
 
-- 🌱 I’m currently learning: **Data Science, Machine Learning, Data Structures and Algorithims!**
+- 🌱 I’m currently learning: **Data Science, Machine Learning, Data Structures and Algorithims in Python!**
 
 - 👯 I’m looking to collaborate on: **An undergraduate-research project for the Summer of 2023!**
 
@@ -47,7 +47,7 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 
 - 👨‍💻 All of my projects are available at: **[https://www.github.com/jjkrasnick](https://www.github.com/jjkrasnick)**
 
-- 💬 Ask me about: **Coding, Machine Learning, Deep Learning, and AI Development!**
+- 💬 Ask me about: **Machine Learning, Deep Learning, and AI Development!**
 
 - 📄 Know about my experiences, find my resume, and connect with me: **[https://www.linkedin.com/in/jjkrasnick](https://www.linkedin.com/in/jjkrasnick)**
 
@@ -57,8 +57,8 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjkrasnick" height="50" width="60" /></a>
-<a href="https://www.hackerrank.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjkrasnick" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjkrasnick" height="60" width="60" /></a>
+<a href="https://www.hackerrank.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjkrasnick" height="60" width="60" /></a>
 </p>
 
 ---
@@ -78,7 +78,3 @@ Please contact and connect with me on my LinkedIn if you want to learn more!
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick&layout=compact)](https://github.com/jjkrasnick/github-readme-stats)
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&repo=jjkrasnick)](https://github.com/jjkrasnick/jjkrasnick)

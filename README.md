@@ -23,7 +23,7 @@ Finally, I am pursuing a Certificate in Conflict Management and Dispute Resoluti
 
 My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
 
-Please feel free to contact me at jjkrasnick23@gmail.com.
+Please contact and connect with me on my LinkedIn if you want to learn more!
 
 ---
 
@@ -35,7 +35,7 @@ Please feel free to contact me at jjkrasnick23@gmail.com.
 
 ### About Me:
 
-- 🔭 I’m currently working on: **My Portfolio Website using Vite, JavaScript, React, Tailwind, and hosting it on GitHub!**
+- 🔭 I’m currently working on: **My Portfolio Website using Vite, JavaScript, React, Tailwind, TypeScript, and hosting it on GitHub!**
 
 - 🌱 I’m currently learning: **Data Science, Machine Learning, Data Structures and Algorithims!**
 
@@ -60,3 +60,17 @@ Please feel free to contact me at jjkrasnick23@gmail.com.
 <a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjkrasnick" height="50" width="60" /></a>
 <a href="https://www.hackerrank.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjkrasnick" height="50" width="60" /></a>
 </p>
+
+---
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>

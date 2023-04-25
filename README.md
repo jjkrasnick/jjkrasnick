@@ -10,6 +10,13 @@
   </a>
 </div>
 
+<p align="center">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jjkrasnick?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/jjkrasnick?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jjkrasnick?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/jjkrasnick/Simple-View-Counter">
+</p>
+
 ![JJ's Header](https://media.licdn.com/dms/image/D5616AQG5B5EWrfGsdQ/profile-displaybackgroundimage-shrink_350_1400/0/1680843870193?e=1687996800&v=beta&t=S3XrIdgUJDXtreT85V6Eiz5nxkqQ1THXUkPnIx-bgeQ)
 <h1>
   <h1 align="center">Hi everyone, I'm JJ Krasnick! Welcome to my Github!

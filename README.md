@@ -11,15 +11,12 @@
 </div>
 
 <p align="center">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jjkrasnick?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/jjkrasnick?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jjkrasnick?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/jjkrasnick/Simple-View-Counter">
 </p>
 
 ![JJ's Header](https://media.licdn.com/dms/image/D5616AQG5B5EWrfGsdQ/profile-displaybackgroundimage-shrink_350_1400/0/1680843870193?e=1687996800&v=beta&t=S3XrIdgUJDXtreT85V6Eiz5nxkqQ1THXUkPnIx-bgeQ)
-
-<img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
 
 <h1>
   <h1 align="center">Hi everyone, I'm JJ Krasnick! Welcome to my Github!
@@ -54,12 +51,9 @@ Finally, I am pursuing a [Certificate in Conflict Management and Dispute Resolut
 
 My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
 
-Please contact and connect with me on my **[LinkedIn](https://www.linkedin.com/in/jjkrasnick)** if you want to learn more!
+Please contact and connect with me on my [LinkedIn](https://www.linkedin.com/in/jjkrasnick) if you want to learn more!
 
 <img algin="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
- 
-<img align="center" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/javascript.gif" width="400" />
-
 
 ---
 
@@ -89,9 +83,7 @@ Please contact and connect with me on my **[LinkedIn](https://www.linkedin.com/i
 
 - ⚡ Fun fact: **[I have three citizenships: United States, Canadian, and Swedish!](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 😄 Pronouns: **[He/Him/His](https://www.linkedin.com/in/jjkrasnick/)**  
-
-<img algin="center" alt="Coding2" width="200" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=4w%2bf0%2bwXD64BFg&pid=ImgRaw&r=0">
+- 😄 Pronouns: **[He/Him/His](https://www.linkedin.com/in/jjkrasnick/)**
     
 ---
 
@@ -106,12 +98,10 @@ Please contact and connect with me on my **[LinkedIn](https://www.linkedin.com/i
 
 ### :fire: Stats:
 
-![JJ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&theme=dark&show_icons=true)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjkrasnick&theme=dark&layout=compact" alt="jjkrasnick" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjkrasnick&theme=dark&show_icons=true" alt="jjkrasnick" /></p>
-
+Github Stats | Top Languages
+-------------|--------------
+[![JJ Krasnick's Github Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&theme=dark)](https://github.com/jjkrasnick/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick&show_icons=true&theme=dark&layout=compact)](https://github.com/jjkrasnick/github-readme-stats)
+    
 ---
 
 ### 🤓 Projects:

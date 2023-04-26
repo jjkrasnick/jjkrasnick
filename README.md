@@ -16,7 +16,7 @@
   <a href="https://github.com/jjkrasnick/Simple-View-Counter">
 </p>
 
-![JJ's Header](https://media.licdn.com/dms/image/D5616AQG5B5EWrfGsdQ/profile-displaybackgroundimage-shrink_350_1400/0/1680843870193?e=1687996800&v=beta&t=S3XrIdgUJDXtreT85V6Eiz5nxkqQ1THXUkPnIx-bgeQ)
+![JJ's Header](https://media.licdn.com/dms/image/D5616AQG5B5EWrfGsdQ/profile-displaybackgroundimage-shrink_350_1400/0/1680843870193?e=1687996800&v=beta&t=S3XrIdgUJDXtreT85V6Eiz5nxkqQ1THXUkPnIx-bgeQ) 
 
 <h1>
   <h1 align="center">Hi everyone, I'm JJ Krasnick! Welcome to my Github!

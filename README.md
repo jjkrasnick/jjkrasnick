@@ -18,6 +18,9 @@
 </p>
 
 ![JJ's Header](https://media.licdn.com/dms/image/D5616AQG5B5EWrfGsdQ/profile-displaybackgroundimage-shrink_350_1400/0/1680843870193?e=1687996800&v=beta&t=S3XrIdgUJDXtreT85V6Eiz5nxkqQ1THXUkPnIx-bgeQ)
+
+<img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
+
 <h1>
   <h1 align="center">Hi everyone, I'm JJ Krasnick! Welcome to my Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -55,6 +58,9 @@ Please contact and connect with me on my **[LinkedIn](https://www.linkedin.com/i
 
 <img algin="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
  
+<img align="center" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/javascript.gif" width="400" />
+
+
 ---
 
 ### 🧰 Languages, Frameworks, and Tools:

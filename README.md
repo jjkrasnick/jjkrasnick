@@ -100,7 +100,7 @@ Please contact and connect with me on my [LinkedIn](https://www.linkedin.com/in/
 
 Github Stats | Most Used Languages
 -------------|--------------------
-[![JJ Krasnick's Github Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&theme=dark)](https://github.com/jjkrasnick/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick&show_icons=true&theme=dark&layout=compact)](https://github.com/jjkrasnick/github-readme-stats)
+[![JJ Krasnick's Github Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&theme=dark)](https://github.com/jjkrasnick/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick&show_icons=true&theme=dark&layout=compact&langs_count=10)](https://github.com/jjkrasnick/github-readme-stats)
     
 ---
 

@@ -39,7 +39,7 @@
 
 ### ♟️ Summary:
 
-I am a current first-year (freshman) at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
+I am a first-year (freshman) at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
   
 As a triple major in Computer Science, Mathematics, and Physics with a minor in Data Science, I possess a unique blend of technical skills that make me a strong candidate for SDE/SWE/Quant roles. My experience in software engineering, AI/ML, and quantitative trading through research and personal projects have provided me with a solid foundation to excel in these fields.
 
@@ -55,7 +55,7 @@ Finally, I am pursuing a [Certificate in Conflict Management and Dispute Resolut
 
 My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
 
-Please contact and connect with me on my [LinkedIn](https://www.linkedin.com/in/jjkrasnick) if you want to learn more!
+Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkrasnick) if you want to learn more!
 
 <img algin="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 

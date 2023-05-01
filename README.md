@@ -79,7 +79,7 @@ Please contact and connect with me on my [LinkedIn](https://www.linkedin.com/in/
 
 - 💬 Ask me about: **[Machine Learning, Deep Learning, and AI Development!](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 📄 Know about my experiences, find my resume, and connect with me: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick)**
+- 📄 Know about my experiences, find my resume, and connect with me: **[JJ's LinkTree Links](https://www.linktr.ee/jjkrasnick)**
 
 - ⚡ Fun fact: **[I have three citizenships: United States, Canadian, and Swedish!](https://www.linkedin.com/in/jjkrasnick/)**
 

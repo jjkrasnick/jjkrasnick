@@ -10,14 +10,16 @@
   </a>
 </div>
 
-<p align="center"> <a href="https://twitter.com/jjkrasnick" target="https://twitter.com/jjkrasnick?tab=followers"><img src="https://img.shields.io/twitter/follow/jjkrasnick?logo=twitter&style=for-the-badge" alt="jjkrasnick" /></a> </p>
-
 <p align="center">
   <a href="https://github.com/jjkrasnick?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jjkrasnick?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/jjkrasnick/Simple-View-Counter">
 </p>
+  
+<p align="center"> <a href="https://twitter.com/jjkrasnick" target="https://twitter.com/jjkrasnick?tab=followers"><img src="https://img.shields.io/twitter/follow/jjkrasnick?logo=twitter&style=for-the-badge" alt="jjkrasnick" /></a> </p>  
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jjkrasnick&label=Profile%20views&color=0e75b6&style=flat" alt="jjkrasnick" /> </p>  
+  
 ![JJ's Header](https://media.licdn.com/dms/image/D5616AQFwpGBQCoS1pA/profile-displaybackgroundimage-shrink_350_1400/0/1682913166572?e=1688601600&v=beta&t=4tuXwEjED-6L5jlwvQWIj_n1WarZymgNrG63TVcaR34) 
 
 <h1>

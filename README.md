@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<p align="center"> <a href="https://twitter.com/jjkrasnick" target="https://twitter.com/jjkrasnick?tab=followers"><img src="https://img.shields.io/twitter/follow/jjkrasnick?logo=twitter&style=for-the-badge" alt="jjkrasnick" /></a> </p>
+
 <p align="center">
   <a href="https://github.com/jjkrasnick?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jjkrasnick?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>

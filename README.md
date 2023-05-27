@@ -20,7 +20,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jjkrasnick&label=Profile%20views&color=0e75b6&style=flat" alt="jjkrasnick" /> </p>  
   
-![JJ's Header](https://media.licdn.com/dms/image/D5616AQFwpGBQCoS1pA/profile-displaybackgroundimage-shrink_350_1400/0/1682913166572?e=1688601600&v=beta&t=4tuXwEjED-6L5jlwvQWIj_n1WarZymgNrG63TVcaR34) 
+![JJ's Header](https://media.licdn.com/dms/image/D5616AQExpj2VsrQPdQ/profile-displaybackgroundimage-shrink_350_1400/0/1685148250472?e=1690416000&v=beta&t=YmY7NVZ-KhT-NQMhbIRG2b0ZhOq87prOYH4kM1iSRrU)
 
 <h1>
   <h1 align="center">Hi everyone, I'm JJ Krasnick! Welcome to my Github!

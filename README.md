@@ -102,6 +102,7 @@ Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkras
 <a href="https://instagram.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjkrasnick" height="40" width="40" /></a>
 <a href="https://hashnode.com/@jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jjkrasnick" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jj krasnick" height="40" width="40" /></a>
+<a href="https://dev.to/dev.jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.jjkrasnick" height="30" width="40" /></a>  
 <a href="https://kaggle.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jjkrasnick" height="30" width="40" /></a>  
 </p>  
 

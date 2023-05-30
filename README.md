@@ -7,7 +7,8 @@
 #
 
 <p align="center">
-  <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" height= "50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" height= "50" width="50" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"></a>
   <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
   <a href="https://twitter.com/jjkrasnick"><img alt="Twitter" title="Twitter" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
   <a href="https://youtube.com/@jjkrasnick"><img alt="YouTube" title="YouTube" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
@@ -75,7 +76,8 @@ Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkras
 
 - 🧑🏻‍🏫 Know about my experiences, find my resume, and connect with me: <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" height= "30" width="30" src="https://img.icons8.com/?size=512&id=GfTOMrwiax2M&format=png"></a>
   
-- 👨🏻‍💻 My projects are available at: <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" height= "30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+- 👨🏻‍💻 My projects are available at: <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" height= "35" width="35" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"></a>
   
 - 📱 How to contact me: <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
@@ -89,9 +91,6 @@ Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkras
 <a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjkrasnick" height="40" width="40" /></a>  
 <a href="https://www.hackerrank.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjkrasnick" height="40" width="40" /></a>  
 <a href="https://medium.com/@jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jjkrasnick" height="40" width="40" /></a>  
-<a href="https://www.youtube.com/@jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jjkrasnick" height="40" width="40" /></a>
-<a href="https://twitter.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jjkrasnick" height="40" width="40" /></a>
-<a href="https://instagram.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjkrasnick" height="40" width="40" /></a>
 <a href="https://hashnode.com/@jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jjkrasnick" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jj krasnick" height="40" width="40" /></a> 
 <a href="https://kaggle.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jjkrasnick" height="30" width="40" /></a>  

@@ -25,8 +25,6 @@
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
 
 **`(Software Engineer, Full-Stack Developer, Data Scientist, Quantitative Trader, Quantitative Researcher)`**
- 
----
 
 ### 👨🏻‍⚖️ Summary:
 

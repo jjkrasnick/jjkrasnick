@@ -1,16 +1,16 @@
 # 🔬 Welcome to JJ Krasnick's GitHub Profile:
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.licdn.com/dms/image/D4E16AQHkGkIUIqtfjA/profile-displaybackgroundimage-shrink_350_1400/0/1685475720497?e=1691020800&v=beta&t=aQRu2zFoD5ToOoO85WOINpbzS85ulQq6FErOhGrXLWU" width="fill"/>
 </div>
 
+#
+
 <p align="center">
-<a href="https://www.linkedin.com/in/jjkrasnick/">
-  <img alt="JJ's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:jjkrasnick23@gmail.com">
-  <img alt="JJ's Email" width="40px" src="https://img.icons8.com/color/32/000000/gmail.png"/>
-</a>
+  <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" height= "50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://twitter.com/jjkrasnick"><img alt="Twitter" title="Twitter" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+  <a href="https://youtube.com/@jjkrasnick"><img alt="YouTube" title="YouTube" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 </p>
 
 <table align="center">
@@ -63,22 +63,19 @@ Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkras
   
 - 🥼 I’m currently working on: **[2023 Summer Research](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🎓 I’m currently learning: **[HFT, Data Science, Machine Learning, and Data Structures and Algorithims in Python and C++](https://www.linkedin.com/in/jjkrasnick/)**
+- 👨🏻‍🎓 I’m currently learning: **[Data Structures and Algorithims in Python and C++](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 🧠 I’m looking to collaborate on: **[An undergraduate-research project for the Fall of 2023, or a Fall 2023 internship](https://www.linkedin.com/in/jjkrasnick/)**
   
-- 💻 Ask me about: **[Machine Learning, Deep Learning, and AI Development](https://www.linkedin.com/in/jjkrasnick/)**
+- 💻 Ask me about: **[Machine Learning, Deep Learning, NLP, and AI Development](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 👨🏻‍🔬 I’m looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 🧑🏻‍🏫 Know about my experiences, find my resume, and connect with me: **[JJ's LinkTree](https://www.linktr.ee/jjkrasnick)**
+- 🧑🏻‍🏫 Know about my experiences, find my resume, and connect with me: <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" height= "30" width="30" src="https://img.icons8.com/?size=512&id=GfTOMrwiax2M&format=png"></a>
   
-- 👨🏻‍💻 My projects are available at: **[JJ's GitHub](https://www.github.com/jjkrasnick)**
+- 👨🏻‍💻 My projects are available at: <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" height= "30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
   
-- 📱 How to contact me: **[![Linkedin Badge](https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg)](https://www.linkedin.com/in/jjkrasnick)** 
-<a href="https://www.linkedin.com/in/jjkrasnick/">
-  <img alt="JJ's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 📱 How to contact me: <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
 - 🎓 My pronouns are: **`He/Him/His`**
     

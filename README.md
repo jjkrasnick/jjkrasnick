@@ -1,4 +1,4 @@
-# 🎾 Welcome to JJ Krasnick's GitHub Profile:
+# 🔬 Welcome to JJ Krasnick's GitHub Profile:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -32,7 +32,7 @@
   
 ---
 
-### ♟️ Summary:
+### 👨🏻‍⚖️ Summary:
 
 I am a first-year (freshman) at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
   
@@ -63,29 +63,29 @@ Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkras
 
 ---
 
-### :man_technologist: About Me:
+### 🥇 About Me:
 
-- 🔭 I’m currently working on: **[My Portfolio Website using Vite, JavaScript, React, Tailwind, TypeScript, and hosting it on GitHub!](https://www.linkedin.com/in/jjkrasnick/)**
+- 🥼 I’m currently working on: **[My Portfolio Website using Vite, JavaScript, React, Tailwind, TypeScript, and hosting it on GitHub!](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 🌱 I’m currently learning: **[HFT, Data Science, Machine Learning, and Data Structures and Algorithims in Python!](https://www.linkedin.com/in/jjkrasnick/)**
+- 👨🏻‍🎓 I’m currently learning: **[HFT, Data Science, Machine Learning, and Data Structures and Algorithims in Python!](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👯 I’m looking to collaborate on: **[An undergraduate-research project for the Summer of 2023!](https://www.linkedin.com/in/jjkrasnick/)**
+- 🧠 I’m looking to collaborate on: **[An undergraduate-research project for the Summer of 2023!](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 💡 **I'm interested in:**  **`Data Analytics 📊` `Full-Stack Developer 👨‍💻` `Machine Learning and Automation 🚀` `System Design and Operating Systems ⚙️` `Open Science - Physics, Biology  🧬`**  
 
-- 📫 How to reach me: **[![Linkedin Badge](https://img.shields.io/badge/-jjkrasnick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jjkrasnick)**
+- 🧑🏻‍🔬 How to reach me: **[![Linkedin Badge](https://img.shields.io/badge/-jjkrasnick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jjkrasnick)**
 
-- 🤝 I’m looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 Internships!](https://www.linkedin.com/in/jjkrasnick/)**
+- 👨🏻‍🔬 I’m looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 Internships!](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨‍💻 All of my projects are available at: **[JJ's GitHub](https://www.github.com/jjkrasnick)**
+- 👨🏻‍💻 All of my projects are available at: **[JJ's GitHub](https://www.github.com/jjkrasnick)**
 
-- 💬 Ask me about: **[Machine Learning, Deep Learning, and AI Development!](https://www.linkedin.com/in/jjkrasnick/)**
+- ♟️ Ask me about: **[Machine Learning, Deep Learning, and AI Development!](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 📄 Know about my experiences, find my resume, and connect with me: **[JJ's LinkTree Links](https://www.linktr.ee/jjkrasnick)**
+- 🧑🏻‍🏫 Know about my experiences, find my resume, and connect with me: **[JJ's LinkTree Links](https://www.linktr.ee/jjkrasnick)**
 
-- ⚡ Fun fact: **[I have three citizenships: United States, Canadian, and Swedish!](https://www.linkedin.com/in/jjkrasnick/)**
+- 👨🏻‍💼 Fun fact: **[I have three citizenships: United States, Canadian, and Swedish!](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 😄 Pronouns: **[He/Him/His](https://www.linkedin.com/in/jjkrasnick/)**
+- 🎓 Pronouns: **[He/Him/His](https://www.linkedin.com/in/jjkrasnick/)**
     
 ---
 
@@ -104,7 +104,7 @@ Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkras
 
 ---
 
-### :fire: Github Stats:
+### 👨🏻‍🏭 Github Stats:
 
 Github Stats | Most Used Languages
 -------------|--------------------
@@ -112,7 +112,7 @@ Github Stats | Most Used Languages
     
 ---
 
-### 🤓 Projects:
+### 👨🏻‍⚕️ Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=Credit-Card-Fraud-Detection)](https://github.com/jjkrasnick/Credit-Card-Fraud-Detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=diabetes-predictor)](https://github.com/jjkrasnick/diabetes-predictor)

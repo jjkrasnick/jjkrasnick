@@ -24,11 +24,11 @@
 
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
 
-**`(Software Engineer, Full-Stack Developer, Data Scientist, Quantitative Trader, Quantitative Researcher)`**
+**`Software Engineer, Full-Stack Developer, Data Scientist, Quantitative Trader, Quantitative Researcher`**
 
 # 
   
-<h3>🧬 JJ's Summary:</h3>
+### 🧬 JJ's Summary:
 
 I am a first-year (freshman) at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
   
@@ -42,7 +42,7 @@ Furthermore, I have participated in hackathons and coding competitions, which ha
 
 As a quantitative trader, my proficiency in mathematical modeling, statistical analysis, and algorithmic trading makes me a strong candidate for Quant roles. I have created trading strategies using quantitative methods that have improved efficiency by 230%. My experience in financial modeling, portfolio optimization, and risk management enables me to analyze market trends and develop effective trading strategies.
 
-Finally, I am pursuing a [Certificate in Conflict Management and Dispute Resolution](https://seaver.pepperdine.edu/communication/undergraduate/conflict-management/) at a top 50 Law School in the Caruso School of Law and the world's #1 Ranked institution for Dispute Resolution at the Straus Center for Dispute Resolution at Pepperdine University. This experience has honed my conflict resolution, negotiation, and communication skills, which are valuable in any SDE/SWE/Quant role.
+Finally, I am pursuing a [Certificate in Conflict Management and Dispute Resolution](https://seaver.pepperdine.edu/communication/undergraduate/conflict-management/) at a top 45 Law School in the Caruso School of Law and the world's #1 Ranked institution for Dispute Resolution at the Straus Center for Dispute Resolution at Pepperdine University. This experience has honed my conflict resolution, negotiation, and communication skills, which are valuable in any SDE/SWE/Quant role.
 
 My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
 
@@ -63,11 +63,11 @@ Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkras
   
 - 🥼 I’m currently working on: **[2023 Summer Research](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🎓 I’m currently learning: **[Data Structures and Algorithims in Python and C++](https://www.linkedin.com/in/jjkrasnick/)**
+- 👨🏻‍🎓 I’m currently learning: **[Data Structures and Algorithims in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
 
 - 🧠 I’m looking to collaborate on: **[An undergraduate-research project for the Fall of 2023, or a Fall 2023 internship](https://www.linkedin.com/in/jjkrasnick/)**
   
-- 💻 Ask me about: **[Machine Learning, Deep Learning, NLP, and AI Development](https://www.linkedin.com/in/jjkrasnick/)**
+- 💻 Ask me about: **[Machine Learning, Deep Learning, AI Development](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 👨🏻‍🔬 I’m looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 

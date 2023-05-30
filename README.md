@@ -4,23 +4,18 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jjkrasnick/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <p align="center">
-  <a href="https://github.com/jjkrasnick?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jjkrasnick?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/jjkrasnick/Simple-View-Counter">
+<a href="https://www.linkedin.com/in/jjkrasnick/">
+  <img alt="JJ's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jjkrasnick23@gmail.com">
+  <img alt="JJ's Email" width="40px" src="https://img.icons8.com/color/32/000000/gmail.png"/>
+</a>
 </p>
-  
-<p align="center"> <a href="https://twitter.com/jjkrasnick" target="https://twitter.com/jjkrasnick?tab=followers"><img src="https://img.shields.io/twitter/follow/jjkrasnick?logo=twitter&style=for-the-badge" alt="jjkrasnick" /></a> </p>  
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jjkrasnick&label=Profile%20views&color=0e75b6&style=flat" alt="jjkrasnick" /> </p>  
-  
-![JJ's Header](https://media.licdn.com/dms/image/D5616AQExpj2VsrQPdQ/profile-displaybackgroundimage-shrink_350_1400/0/1685148250472?e=1690416000&v=beta&t=YmY7NVZ-KhT-NQMhbIRG2b0ZhOq87prOYH4kM1iSRrU)
+<table align="center">
+ <tr><td><img src="https://img.freepik.com/free-vector/illustration-usa-flag_53876-18165.jpg?w=2000&t=st=1685468577~exp=1685469177~hmac=07af9be494be5bad97cd6798c434923d8e2ad5d781d6e4c5bc78899104da32b1" height="25"> ----- U.S. Citizen</a></td></tr>
+</table>
 
 <h1>
   <h1 align="center">Hi everyone, I'm JJ Krasnick! Welcome to my Github!
@@ -34,7 +29,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+  
 ---
 
 ### ♟️ Summary:
@@ -75,6 +70,8 @@ Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkras
 - 🌱 I’m currently learning: **[HFT, Data Science, Machine Learning, and Data Structures and Algorithims in Python!](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 👯 I’m looking to collaborate on: **[An undergraduate-research project for the Summer of 2023!](https://www.linkedin.com/in/jjkrasnick/)**
+
+- 💡 **I'm interested in:**  **`Data Analytics 📊` `Full-Stack Developer 👨‍💻` `Machine Learning and Automation 🚀` `System Design and Operating Systems ⚙️` `Open Science - Physics, Biology  🧬`**  
 
 - 📫 How to reach me: **[![Linkedin Badge](https://img.shields.io/badge/-jjkrasnick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jjkrasnick)**
 

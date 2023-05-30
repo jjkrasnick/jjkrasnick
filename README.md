@@ -15,6 +15,8 @@
 
 <table align="center">
  <tr><td><img src="https://img.freepik.com/free-vector/illustration-usa-flag_53876-18165.jpg?w=2000&t=st=1685468577~exp=1685469177~hmac=07af9be494be5bad97cd6798c434923d8e2ad5d781d6e4c5bc78899104da32b1" height="25"> ➡  U.S. Citizen</a></td></tr>
+  <tr><td><img src="https://flaglane.com/download/canadian-flag/canadian-flag-graphic.png" height="25"> ➡  Canadian Citizen</a></td></tr> 
+  <tr><td><img src="https://flaglane.com/download/swedish-flag/swedish-flag-graphic.png" height="25"> ➡  Swedish Citizen</a></td></tr> 
 </table>
 
 <h1>
@@ -59,15 +61,15 @@ Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkras
 
 ### 🥽 About me:
 
-- 💡 **I'm interested in:**  **`Data Analytics 📊` `Machine Learning/Automation 🚀` `System Design/Operating Systems ⚙️` `Physics/Biology 🧬`**  
+- 💡 **I'm interested in:**  **`Data Analytics 📊` `Machine Learning/Automation 🚀` `System Design/Operating Systems ⚙️` `Physics/Biology 🧫`**  
+  
+- 💻 Ask me about: **`AI Development 🔭`**
   
 - 🥼 I’m currently working on: **[2023 Summer Research](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 👨🏻‍🎓 I’m currently learning: **[Data Structures and Algorithims in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
 
 - 🧠 I’m looking to collaborate on: **[An undergraduate-research project for the Fall of 2023, or a Fall 2023 internship](https://www.linkedin.com/in/jjkrasnick/)**
-  
-- 💻 Ask me about: **[Machine Learning, Deep Learning, AI Development](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 👨🏻‍🔬 I’m looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 

@@ -25,11 +25,7 @@
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
 
 **`(Software Engineer, Full-Stack Developer, Data Scientist, Quantitative Trader, Quantitative Researcher)`**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-  
+ 
 ---
 
 ### 👨🏻‍⚖️ Summary:
@@ -51,8 +47,6 @@ Finally, I am pursuing a [Certificate in Conflict Management and Dispute Resolut
 My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
 
 Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkrasnick) if you want to learn more!
-
-<img algin="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 ---
 

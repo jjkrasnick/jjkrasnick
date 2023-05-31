@@ -1,4 +1,4 @@
-# 🔬 Welcome to JJ Krasnick's GitHub Profile:
+# 🔬 Welcome to JJ Krasnick's GitHub Profile   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "40px" width="40px"/>
 
 <h4>
   <h4 align= "center">
@@ -31,9 +31,9 @@
 
 # 
   
-### 🧬 JJ's Summary:
+### 🧬 Summary:
 
-I am a first-year (freshman) at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
+I am a first-year at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
   
 As a triple major in Computer Science, Mathematics, and Physics with a minor in Data Science, I possess a unique blend of technical skills that make me a strong candidate for SDE/SWE/Quant roles. My experience in software engineering, AI/ML, and quantitative trading through research and personal projects have provided me with a solid foundation to excel in these fields.
 

@@ -1,18 +1,18 @@
 # 🔬 Welcome to JJ Krasnick's GitHub Profile:
 
-<div id="header" align="center">
-  <img src="https://media.licdn.com/dms/image/D4E16AQHkGkIUIqtfjA/profile-displaybackgroundimage-shrink_350_1400/0/1685475720497?e=1691020800&v=beta&t=aQRu2zFoD5ToOoO85WOINpbzS85ulQq6FErOhGrXLWU" width="fill"/>
-</div>
-
+<h4>
+  <h4 align= "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oxygen&weight=500&pause=1000&color=F9F9FF&center=true&vCenter=true&width=450&height=60&lines=I+am+a+full-stack+web+and+app+developer;I+am+studying+AI+and+Machine+Learning;Always+learning+new+skills" alt="Typing SVG" /></a>
+<h4>
+  
 #
 
-<p align="center">
-  <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" height= "50" width="50" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"></a>
-  <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-  <a href="https://twitter.com/jjkrasnick"><img alt="Twitter" title="Twitter" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-  <a href="https://youtube.com/@jjkrasnick"><img alt="YouTube" title="YouTube" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
-</p>
+<h4>
+  <h4 align= "center">
+<p><a href="https://www.twitter.com/jjkrasnick"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/jjkrasnick"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://medium.com/@jjkrasnick"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+<h4>
+  
+#
 
 <table align="center">
  <tr><td><img src="https://img.freepik.com/free-vector/illustration-usa-flag_53876-18165.jpg?w=2000&t=st=1685468577~exp=1685469177~hmac=07af9be494be5bad97cd6798c434923d8e2ad5d781d6e4c5bc78899104da32b1" height="25"> ➡  U.S. Citizen</a></td></tr>
@@ -20,10 +20,10 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
   <tr><td><img src="https://flaglane.com/download/swedish-flag/swedish-flag-graphic.png" height="25"> ➡  Swedish Citizen</a></td></tr> 
 </table>
 
-<h1>
-  <h1 align="center">Hi everyone, I'm JJ Krasnick! Welcome to my Github!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h2>
+  <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&pause=1000&color=F9F9FF&center=true&vCenter=true&width=2000&height=200&lines=Hi+everyone%2C+I'm+JJ+Krasnick!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "40px" width="40px"/>
+</h2>
 
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
 
@@ -90,7 +90,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <p align="left">
 <a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjkrasnick" height="40" width="40" /></a>  
 <a href="https://www.hackerrank.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjkrasnick" height="40" width="40" /></a>  
-<a href="https://medium.com/@jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jjkrasnick" height="40" width="40" /></a>  
+<a href="https://linktr.ee/jjkrasnick" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=GfTOMrwiax2M&format=png" alt="@jjkrasnick" height="40" width="40" /></a>  
 <a href="https://hashnode.com/@jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jjkrasnick" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jj krasnick" height="40" width="40" /></a> 
 <a href="https://kaggle.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jjkrasnick" height="30" width="40" /></a>  

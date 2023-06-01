@@ -22,7 +22,7 @@
 
 <h2>
   <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&pause=1000&color=F9F9FF&center=true&vCenter=true&width=2000&height=200&lines=Hi+everyone%2C+I'm+JJ+Krasnick!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "40px" width="40px"/>
+    <a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="jjkrasnick" height="40" width="40" /></a>
 </h2>
 
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>

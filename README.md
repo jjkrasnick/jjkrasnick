@@ -97,6 +97,15 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </p>  
 
 #
+  
+### 📖 Blog Posts:
+
+<a href="https://medium.com/@jjkrasnick" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="jjkrasnick" /></a>
+
+  
+  
+#  
+  
 
 ### 👨🏻‍🏭 Stats:
 

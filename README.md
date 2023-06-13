@@ -22,7 +22,6 @@
 
 <h2>
   <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&pause=1000&color=F9F9FF&center=true&vCenter=true&width=2000&height=200&lines=Hi+everyone%2C+I'm+JJ+Krasnick!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
-    <a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="jjkrasnick" height="40" width="40" /></a>
 </h2>
 
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
@@ -33,7 +32,7 @@
   
 ### 🧬 Summary:
 
-I am a first-year at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about me, and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
+I am a first-year at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about me and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
   
 As a triple major in Computer Science, Mathematics, and Physics with a minor in Data Science, I possess a unique blend of technical skills that make me a strong candidate for SDE/SWE/Quant roles. My experience in software engineering, AI/ML, and quantitative trading through research and personal projects have provided me with a solid foundation to excel in these fields.
 
@@ -87,16 +86,10 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 <h3 align="left">⌨ Connect with me:</h3>
 
 | <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a> |
---------------|-----------------------
-|f|-----|-----|f|
-<p align="left">
-<a href="https://linkedin.com/in/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjkrasnick" height="40" width="40" /></a>  
-<a href="https://www.hackerrank.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jjkrasnick" height="40" width="40" /></a>  
-<a href="https://linktr.ee/jjkrasnick" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=GfTOMrwiax2M&format=png" alt="@jjkrasnick" height="40" width="40" /></a>  
-<a href="https://www.leetcode.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jj krasnick" height="40" width="40" /></a> 
-<a href="https://kaggle.com/jjkrasnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jjkrasnick" height="30" width="40" /></a>  
-  https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-</p>  
+--------------|----------------
+|<a href="https://www.leetcode.com/jjkrasnick"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>|<a href="https://www.hackerrank.com/jjkrasnick"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>|
+|<a href="https://www.instagram.com/jjkrasnick"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>|<a href="https://www.tiktok.com/@jjkrasnick"><img alt="TikTok" title="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>|
+|<a href="https://www.twitch.tv/jjkrasnick"><img alt="Twitch" title="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>|<a href="https://www.youtube.com/@jjkrasnick"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|
 
 #
   

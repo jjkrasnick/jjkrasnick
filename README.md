@@ -95,20 +95,24 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
   
 ### 📖 Blog Posts:
 
-|<a href="https://medium.com/@jjkrasnick" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="jjkrasnick" /></a>|
+|<a href="https://medium.com/@jjkrasnick"><img alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="jjkrasnick"></a>|
 |---------|
-|<a href="https://hashnode.com/@jjkrasnick" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="jjkrasnick" /></a>|
-|<a href="https://dev.to/@jjkrasnick" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="jjkrasnick" /></a>| 
+|<a href="https://hashnode.com/@jjkrasnick"><img alt="HashNode" title="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="jjkrasnick"></a>|---|
+|<a href="https://dev.to/@jjkrasnick"><img alt="Dev.To" title="Dev.To" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="jjkrasnick"></a>| 
   
 #  
   
 
 ### 👨🏻‍🏭 Stats:
 
-Github Stats | Most Used Languages
--------------|--------------------
-[![JJ Krasnick's Github Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&theme=dark)](https://github.com/jjkrasnick/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick&show_icons=true&theme=dark&layout=compact&langs_count=9)](https://github.com/jjkrasnick/github-readme-stats)
-    
+Github Stats | Most Used Languages | Github Streak
+-------------|---------------------|---------------
+[![JJ Krasnick's Github Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&theme=dark)](https://github.com/jjkrasnick/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick)|[![JJ Krasnick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjkrasnick&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=jjkrasnick)
+
+| Github Stats Graph |
+|----------------------|
+|[![JJ Krasnick's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjkrasnick&theme=github_dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjkrasnick)|
+
 #
   
 ### 👨🏻‍⚕️ Projects:

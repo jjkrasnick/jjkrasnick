@@ -4,9 +4,9 @@
   <h4 align= "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&pause=1000&color=F9F9FF&center=true&vCenter=true&width=2000&height=200&lines=I+am+a+full-stack+web+and+app+developer;I+am+studying+physics+and+quantum+computing;I+am+learning+more+about+AI+and+machine+learning;I+am+always+open+to+learning+new+skills" alt="Typing SVG" /></a>
 <h4>
-  
-#
 
+#
+  
 <h4>
   <h4 align= "center">
 <p><a href="https://www.twitter.com/jjkrasnick"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/jjkrasnick"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://medium.com/@jjkrasnick"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>

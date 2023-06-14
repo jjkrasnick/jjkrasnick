@@ -14,11 +14,11 @@
   
 #
 
-<table align="center">
- <tr><td><img src="https://img.freepik.com/free-vector/illustration-usa-flag_53876-18165.jpg?w=2000&t=st=1685468577~exp=1685469177~hmac=07af9be494be5bad97cd6798c434923d8e2ad5d781d6e4c5bc78899104da32b1" height="25"> ➡  U.S. Citizen</a></td></tr>
-  <tr><td><img src="https://flaglane.com/download/canadian-flag/canadian-flag-graphic.png" height="25"> ➡  Canadian Citizen</a></td></tr> 
-  <tr><td><img src="https://flaglane.com/download/swedish-flag/swedish-flag-graphic.png" height="25"> ➡  Swedish Citizen</a></td></tr> 
-</table>
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Country&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Citizenship |
+|:---------:|:----------:|
+|<img src="https://img.freepik.com/free-vector/illustration-usa-flag_53876-18165.jpg?w=2000&t=st=1685468577~exp=1685469177~hmac=07af9be494be5bad97cd6798c434923d8e2ad5d781d6e4c5bc78899104da32b1" height="25">|United States Citizenship|
+|<img src="https://flaglane.com/download/canadian-flag/canadian-flag-graphic.png" height="25">|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Canadian Citizenship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|<img src="https://flaglane.com/download/swedish-flag/swedish-flag-graphic.png" height="30">|Swedish Citizenship|
 
 <h2>
   <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&pause=1000&color=F9F9FF&center=true&vCenter=true&width=2000&height=200&lines=Hi+everyone%2C+I'm+JJ+Krasnick!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
@@ -83,7 +83,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 #
 
-<h3 align="left">⌨ Connect with me:</h3>
+### ⌨ Connect with me:
 
 | <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a> |
 --------------|----------------

@@ -79,31 +79,71 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ### 📊 Analytical Tools:
 
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+
 #
 
 ### 🤖 Artificial Intelligence Tools:
+
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
 
 #
 
 ### ☁️ Cloud:
 
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+
 #
 
 ### 🔢 Databases:
+
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
 
 #
 
 ### 🖍️ Design:
 
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+
 #
 
 ### 🖼️ Frameworks and Libraries:
+
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
 
 #
 
 ### 🧪 Languages:
 
-
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
 
 #
 

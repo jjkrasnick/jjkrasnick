@@ -93,7 +93,6 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 #
 
-
 ### 🖍️ Design:
 
 #
@@ -104,9 +103,15 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ### 🧪 Languages:
 
+
+
 #
 
 ### 📞 Mobile Frameworks:
+
+|<a href="https://flutter.dev/"><img alt="React Native" title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="jjkrasnick"></a>|
+|:---------:|
+|<a href="https://reactnative.dev/"><img alt="React Native" title="Spring Security" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="jjkrasnick"></a>|
 
 #
 

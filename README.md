@@ -139,11 +139,11 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ### 🧪 Languages:
 
-|<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" title="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="jjkrasnick"></a>| H2 | H3 | H4 | H5 | H6 | H7 |
+|<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" title="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="jjkrasnick"></a>| <a href="https://dart.dev/"><img alt="Dart" title="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="jjkrasnick"></a> | H3 | H4 | H5 | H6 | H7 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| <a href="https://en.wikipedia.org/wiki/C_Sharp_syntax"><img alt="C#" title="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
+| <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
+| <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
 
 #
 

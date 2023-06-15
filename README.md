@@ -139,7 +139,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ### 🧪 Languages:
 
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" title="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="jjkrasnick"></a>| H2 | H3 | H4 | H5 | H6 | H7 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | H1 | H2 | H3 | H4 | H5 | H6 | H7 |
 | H1 | H2 | H3 | H4 | H5 | H6 | H7 |

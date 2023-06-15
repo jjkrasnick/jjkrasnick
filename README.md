@@ -77,7 +77,16 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
     
 #
 
-### 🧪 Languages, Frameworks, and Tools:
+### 🧪 Languages:
+
+#
+
+### ⚙️ Object-Relational Mapping (ORM) Libraries:
+
+|<a href="https://hibernate.org/"><img alt="Hibernate" title="Java ORM - Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="jjkrasnick"></a>|
+|:---------:|
+|<a href="https://www.prisma.io/"><img alt="Prisma" title="Node.js, TypeScript ORM - Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="jjkrasnick"></a>|---|
+|<a href="https://sequelize.org/"><img alt="Sequelize" title="Node.js, TypeScript ORM - Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="jjkrasnick"></a>|
 
 #
 

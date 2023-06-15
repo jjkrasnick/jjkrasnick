@@ -83,10 +83,9 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ### 🔒 Security Platforms:
 
-|<a href="https://airflow.apache.org/"><img alt="Apache Airflow" title="Apache Airflow" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="jjkrasnick"></a>|
+|<a href="https://snyk.io/?utm_medium=paid-search&utm_source=bing&utm_campaign=gs_sn:-brand-ecpc&utm_content=br_ex&utm_term=snyk&msclkid=0f99daec57b01f78aca0be676da6afaf"><img alt="Snyk" title="Snyk" src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="jjkrasnick"></a>|
 |:---------:|
-|<a href="https://www.jenkins.io/"><img alt="Jenkins" title="Jenkins" src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="jjkrasnick"></a>|---|
-|<a href="https://www.atlassian.com/software/jira"><img alt="Jira" title="Jira" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="jjkrasnick"></a>|
+|<a href="https://spring.io/projects/spring-security"><img alt="Spring Security" title="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="jjkrasnick"></a>|
 
 #
 

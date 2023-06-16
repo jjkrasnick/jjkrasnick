@@ -24,6 +24,8 @@
   <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&pause=1000&color=F9F9FF&center=true&vCenter=true&width=2000&height=200&lines=Hi+everyone%2C+I'm+JJ+Krasnick!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </h2>
 
+###
+
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
 
 **`Full-Stack Developer, Data Scientist, Quantitative Trader`**
@@ -76,6 +78,10 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 - 🎓 My pronouns are: **`He/Him/His`**
     
 #
+
+<h2 align="center">💻 Languages, Tools, and Frameworks that JJ uses:</h2>
+
+###
 
 ### 📊 Analytical Tools:
 

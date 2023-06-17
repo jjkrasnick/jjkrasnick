@@ -85,51 +85,46 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ### 📊 Analytical Tools:
 
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|<a href="https://analytics.google.com/analytics/web/provision/#/provision"><img alt="Google Analytics" title="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="jjkrasnick"></a>|
+|:---------:|
+|<a href="https://www.elastic.co/kibana/"><img alt="Kibana" title="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="jjkrasnick"></a>|---|
+|<a href="https://www.tableau.com/en-gb"><img alt="Tableau" title="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="jjkrasnick"></a>|
 
 #
 
 ### 🤖 Artificial Intelligence Tools:
 
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+|<a href="https://www.comet.com/site/"><img alt="Comet" title="Comet" src="https://custom-icon-badges.herokuapp.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white" alt="jjkrasnick"></a>|
+|:---------:|
+|<a href="https://keras.io/"><img alt="Keras" title="Keras" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="jjkrasnick"></a>|---|
+|<a href="https://pytorch.org/"><img alt="PyTorch" title="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="jjkrasnick"></a>|---|
+|<a href="https://www.tensorflow.org/"><img alt="TensorFlow" title="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="jjkrasnick"></a>|
 
 #
 
 ### ☁️ Cloud:
 
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 |
+|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 |
+| H1 | H2 | H3 | H4 | 
+| H1 | H2 | H3 | H4 |
 
 #
 
 ### 🔢 Databases:
 
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 |
+|:-:|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 | H5 |
 
 #
 
 ### 🖍️ Design:
 
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| H1 | H2 | H3 | H4 | H5 |
+|:-:|:-:|:-:|:-:|:-:|
+| H1 | H2 | H3 | H4 | H5 |
 
 #
 

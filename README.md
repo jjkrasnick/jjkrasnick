@@ -130,11 +130,11 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ### 🖼️ Frameworks and Libraries:
 
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img alt=".NET" title=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
-| H1 | H2 | H3 | H4 | H5 | H6 | H7 |
+| <a href="https://alpinejs.dev/"><img alt="AlpineJS" title="AlpineJS" src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
+| <a href="https://angularjs.org/"><img alt="AngularJS" title="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
+| <a href="https://unsplash.com/"><img alt="Unsplash" title="Unsplash" src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
 
 #
 

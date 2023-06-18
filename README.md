@@ -130,11 +130,11 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ### 🖼️ Frameworks and Libraries:
 
-| <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img alt=".NET" title=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <a href="https://alpinejs.dev/"><img alt="AlpineJS" title="AlpineJS" src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
-| <a href="https://angularjs.org/"><img alt="AngularJS" title="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
-| <a href="https://unsplash.com/"><img alt="Unsplash" title="Unsplash" src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" alt="jjkrasnick"></a> | H2 | H3 | H4 | H5 | H6 | H7 |
+| <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img alt=".NET" title=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="jjkrasnick"></a> | <a href="https://spark.apache.org/"><img alt="Apache Spark" title="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="jjkrasnick"></a> | H3 | H4 | H5 | H6 | H7 | H8 | H9 | H10 | H11 | H12 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <a href="https://alpinejs.dev/"><img alt="AlpineJS" title="AlpineJS" src="https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="jjkrasnick"></a> | <a href="https://getbootstrap.com/"><img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="jjkrasnick"></a> | H3 | H4 | H5 | H6 | H7 | H8 | H9 | H10 | H11 | H12 |
+| <a href="https://angularjs.org/"><img alt="AngularJS" title="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="jjkrasnick"></a> | <a href="https://cmake.org/"><img alt="CMake" title="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="jjkrasnick"></a> | H3 | H4 | H5 | H6 | H7 | H8 | H9 | H10 | H11 | H12 |
+| <a href="https://kafka.apache.org/"><img alt="Apache Kafka" title="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.w3schools.com/js/js_graphics_d3js.asp"><img alt="d3.js" title="d3.js" src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="jjkrasnick"></a> | H3 | H4 | H5 | H6 | H7 | H8 | H9 | H10 | H11 | H12 |
 
 #
 

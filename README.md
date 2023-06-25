@@ -83,7 +83,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 ###
 
-### 📊 Analytical Tools:
+### 📊 Analytical Tools [🔝](#jjkrasnick-readmemd-profile)
 
 |<a href="https://analytics.google.com/analytics/web/provision/#/provision"><img alt="Google Analytics" title="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="jjkrasnick"></a>|
 |:---------:|

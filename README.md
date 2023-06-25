@@ -182,6 +182,14 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 #
 
+### 💼 Freelance:
+
+|<a href="https://www.fiverr.com/jjkrasnick?up_rollout=true"><img alt="Fiverr" title="Fjverr" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="jjkrasnick"></a>|
+|:---------:|
+|<a href="https://www.upwork.com/freelancers/~01d7101e2f0733afeb"><img alt="UpWork" title="UpWork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="jjkrasnick"></a>
+
+#
+
 ### ⌨ Connect with me:
 
 | <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a> |

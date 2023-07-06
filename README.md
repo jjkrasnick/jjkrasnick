@@ -28,7 +28,7 @@
 
 <h3 align="center">Computer Science (Math) Major | Mathematics Major | Finance Major | Data Science Major</h3>
 
-**`Full-Stack Developer, Data Scientist, Quantitative Trader, Tech/Productivity, Digital Craftsmen`**
+**`Full-Stack Developer, Data Scientist, Quantitative Trader, Tech/Productivity`**
 
 # 
   

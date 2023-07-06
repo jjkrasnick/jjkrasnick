@@ -26,56 +26,56 @@
 
 ###
 
-<h3 align="center">Computer Science (Math) Major | Mathematics Major | Physics Major | Data Science Minor</h3>
+<h3 align="center">Computer Science (Math) Major | Mathematics Major | Finance Major | Data Science Major</h3>
 
-**`Full-Stack Developer, Data Scientist, Quantitative Trader`**
+**`Full-Stack Developer, Data Scientist, Quantitative Trader, Tech/Productivity, Digital Craftsmen`**
 
 # 
   
 ### 🧬 Summary:
 
-I am a first-year at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about me and the work that I have done. Thank you for visiting my profile and for wanting to work with me!
-  
-As a triple major in Computer Science, Mathematics, and Physics with a minor in Data Science, I possess a unique blend of technical skills that make me a strong candidate for SDE/SWE/Quant roles. My experience in software engineering, AI/ML, and quantitative trading through research and personal projects have provided me with a solid foundation to excel in these fields.
+JJ is a first-year at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about JJ and the work that he has done. Thank you for visiting JJ's profile and for wanting to work with him!
 
-My expertise in natural language processing, computer vision, and machine learning aligns well with the requirements of AI/ML roles. I have experience developing machine learning models using Python, TensorFlow, and other tools to analyze large datasets and create predictions with high accuracy. My computer vision and natural language processing proficiency have allowed me to build systems that interpret and respond to visual and textual inputs.
+Majoring in Computer Science, Mathematics, Finance, and Data Science, JJ possesses a unique blend of technical skills that make me a strong candidate for software engineering and quantitative trader roles. JJ's experience in software engineering, AI/ML, and quantitative trading through research and personal projects has given him a solid foundation to excel in these fields.
 
-In addition, I have completed personal projects demonstrating my software engineering skills, including building web applications and developing algorithms for data analysis. I have experience with programming languages like Python, Java, C++, and SQL, as well as data modeling, statistical analysis, and visualization. These skills are essential for SWE roles where I can leverage my knowledge to create innovative software solutions that solve complex problems.
+JJ's expertise in natural language processing, computer vision, and machine learning aligns well with the requirements of AI roles. JJ has experience developing machine learning models using Python, TensorFlow, and other tools to analyze large datasets and create predictions with high accuracy. JJ's computer vision and natural language processing proficiency have allowed me to build systems that interpret and respond to visual and textual inputs.
 
-Furthermore, I have participated in hackathons and coding competitions, which have allowed me to work collaboratively with other developers, solve challenging problems under pressure, and develop my presentation and communication skills.
+In addition, JJ has completed personal projects demonstrating his software engineering skills, including building web applications and developing algorithms for data analysis. JJ has experience with programming languages like Python, Java, C++, C#, C, R, and SQL, as well as data modeling, statistical analysis, and visualization. These skills are essential for any role where he can leverage his knowledge to create innovative software solutions that solve complex problems.
 
-As a quantitative trader, my proficiency in mathematical modeling, statistical analysis, and algorithmic trading makes me a strong candidate for Quant roles. I have created trading strategies using quantitative methods that have improved efficiency by 230%. My experience in financial modeling, portfolio optimization, and risk management enables me to analyze market trends and develop effective trading strategies.
+As a quantitative trader, JJ's mathematical modeling, statistical analysis, and algorithmic trading proficiency make him a strong candidate for Quant roles. He has created trading strategies using quantitative methods, improving efficiency by 237.492%. His experience in financial modeling, portfolio optimization, and risk management enables him to analyze market trends and develop effective trading strategies.
 
-Finally, I am pursuing a [Certificate in Conflict Management and Dispute Resolution](https://seaver.pepperdine.edu/communication/undergraduate/conflict-management/) at a top 45 Law School in the Caruso School of Law and the world's #1 Ranked institution for Dispute Resolution at the Straus Center for Dispute Resolution at Pepperdine University. This experience has honed my conflict resolution, negotiation, and communication skills, which are valuable in any SDE/SWE/Quant role.
+Furthermore, JJ has participated in hackathons and coding competitions, which have allowed him to work collaboratively with other developers, solve challenging problems under pressure, and develop his presentation and communication skills.
 
-My diverse academic background and practical experience make me a strong candidate for SDE/SWE/Quant positions. I am excited to bring my skills to bear on innovative projects in these fields. 
+Finally,  JJ is pursuing a [Certificate in Conflict Management and Dispute Resolution](https://seaver.pepperdine.edu/communication/undergraduate/conflict-management/) at a top 45 Law School in the Caruso School of Law and the world's #1 ranked institution for Dispute Resolution at Straus Center for Dispute Resolution at Pepperdine University. This experience has honed his conflict resolution, negotiation, and communication skills, which are valuable in any role.
 
-Don't hesitate to contact me on my [LinkedIn](https://www.linkedin.com/in/jjkrasnick) if you want to learn more!
+JJ's diverse academic background and practical experience make him a strong candidate for any position. JJ is excited to bring his skills to bear on innovative projects in these great fields. 
+
+Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkrasnick) if you want to learn more!
 
 #
 
-### 🥽 About me:
+### 🥽 About JJ:
 
-- 💡 **I'm interested in:**  **`Data Analytics 📊` `Machine Learning/Automation 🚀` `System Design/Operating Systems ⚙️` `Physics/Biology 🧫`**  
+- 💡 **JJ's interested in:**  **`Data Analytics 📊` `Machine Learning/Automation 🚀` `System Design/Operating Systems ⚙️` `Physics/Biology 🧫`**  
   
 - 💻 Ask me about: **`AI Development 🔭`**
   
-- 🥼 I’m currently working on: **[2023 Summer Research](https://www.linkedin.com/in/jjkrasnick/)**
+- 🥼 JJ's currently working on: **[2023 Summer Research](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🎓 I’m currently learning: **[Data Structures and Algorithims in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
+- 👨🏻‍🎓 JJ's currently learning: **[Data Structures and Algorithims in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
 
-- 🧠 I’m looking to collaborate on: **[An undergraduate-research project for the Fall of 2023, or a Fall 2023 internship](https://www.linkedin.com/in/jjkrasnick/)**
+- 🧠 JJ's looking to collaborate on: **[An undergraduate-research project for the Fall of 2023, or a Fall 2023 internship](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🔬 I’m looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
+- 👨🏻‍🔬 JJ's looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 🧑🏻‍🏫 Know about my experiences, find my resume, and connect with me: <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+- 🧑🏻‍🏫 Know about JJ's experiences, find his resume, and connect with him: <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
   
-- 👨🏻‍💻 My projects are available at: <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" 
+- 👨🏻‍💻 JJ's projects are available at: <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" 
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   
-- 📱 How to contact me: <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 📱 How to contact JJ: <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-- 🎓 My pronouns are: **`He/Him/His`**
+- 🎓 JJ's pronouns are: **`He/Him/His`**
     
 #
 
@@ -190,7 +190,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 #
 
-### ⌨ Connect with me:
+### ⌨ Connect with JJ:
 
 | <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a> |
 :--------------:|:----------------:
@@ -200,7 +200,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 #
   
-### 📖 Blog Posts:
+### 📖 JJ's Blog Posts:
 
 |<a href="https://medium.com/@jjkrasnick"><img alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="jjkrasnick"></a>|
 |:---------:|
@@ -210,7 +210,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 #  
   
 
-### 👨🏻‍🏭 Stats:
+### 👨🏻‍🏭 JJ's Stats:
 
 Github Stats | Most Used Languages | Github Streak
 :-------------:|:---------------------:|:---------------:
@@ -222,7 +222,7 @@ Github Stats | Most Used Languages | Github Streak
 
 #
   
-### 👨🏻‍⚕️ Projects:
+### 👨🏻‍⚕️ JJ's Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=Credit-Card-Fraud-Detection)](https://github.com/jjkrasnick/Credit-Card-Fraud-Detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=diabetes-predictor)](https://github.com/jjkrasnick/diabetes-predictor)

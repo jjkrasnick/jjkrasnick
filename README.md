@@ -44,6 +44,8 @@ In addition, JJ has completed personal projects demonstrating his software engin
 
 As a quantitative trader, JJ's mathematical modeling, statistical analysis, and algorithmic trading proficiency make him a strong candidate for Quant roles. He has created trading strategies using quantitative methods, improving efficiency by 237.492%. His experience in financial modeling, portfolio optimization, and risk management enables him to analyze market trends and develop effective trading strategies.
 
+JJ has also researched extensively at Pepperdine University, North Carolina State University, and the Imperial College of London.
+
 Furthermore, JJ has participated in hackathons and coding competitions, which have allowed him to work collaboratively with other developers, solve challenging problems under pressure, and develop his presentation and communication skills.
 
 Finally,  JJ is pursuing a [Certificate in Conflict Management and Dispute Resolution](https://seaver.pepperdine.edu/communication/undergraduate/conflict-management/) at a top 45 Law School in the Caruso School of Law and the world's #1 ranked institution for Dispute Resolution at Straus Center for Dispute Resolution at Pepperdine University. This experience has honed his conflict resolution, negotiation, and communication skills, which are valuable in any role.

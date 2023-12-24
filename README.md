@@ -26,9 +26,9 @@
 
 ###
 
-<h3 align="center">Computer Science (Math) Major | Mathematics Major | Finance Major | Data Science Major</h3>
+<h3 align="center">Machine Learning | Published Researcher | Full-Stack </h3>
 
-**`Full-Stack Developer, Data Scientist, Quantitative Trader, Tech/Productivity`**
+**`Data Scientist, Creator, Tech/Productivity`**
 
 # 
   

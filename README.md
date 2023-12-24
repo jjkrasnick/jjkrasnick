@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="center">Machine Learning | Published Researcher | Full-Stack </h3>
+<h3 align="center">Machine Learning | Published Researcher | Full-Stack Developer </h3>
 
 **`Data Scientist, Creator, Tech/Productivity`**
 

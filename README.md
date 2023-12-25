@@ -62,7 +62,7 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
   
 - 💻 Ask me about: **`AI Development 🔭` `Machine Learning/Automation 🚀`**
   
-- 🥼 JJ's currently working on: **[2023 Summer Research](https://www.linkedin.com/in/jjkrasnick/)**
+- 🥼 JJ's currently working on: **[Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 👨🏻‍🎓 JJ's currently learning: **[Data Structures and Algorithms in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
 

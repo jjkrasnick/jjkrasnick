@@ -58,17 +58,17 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
 
 ### 🥽 About JJ:
 
-- 💡 **JJ's interested in:**  **`Data Analytics 📊` `Machine Learning/Automation 🚀` `System Design/Operating Systems ⚙️` `Physics/Biology 🧫`**  
+- 💡 **JJ's interested in:**  **`Data Analytics 📊` `System Design/Operating Systems ⚙️` `Physics/Biology 🧫`**  
   
-- 💻 Ask me about: **`AI Development 🔭`**
+- 💻 Ask me about: **`AI Development 🔭` `Machine Learning/Automation 🚀`**
   
 - 🥼 JJ's currently working on: **[2023 Summer Research](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🎓 JJ's currently learning: **[Data Structures and Algorithims in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
+- 👨🏻‍🎓 JJ's currently learning: **[Data Structures and Algorithms in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
 
-- 🧠 JJ's looking to collaborate on: **[An undergraduate-research project for the Fall of 2023, or a Fall 2023 internship](https://www.linkedin.com/in/jjkrasnick/)**
+- 🧠 JJ's looking to collaborate on: **[An undergraduate-research project for the Spring of 2024, or a Spring 2024 internship](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🔬 JJ's looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
+- 👨🏻‍🔬 JJ's looking for help with: **[Finding Spring 2024 and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 🧑🏻‍🏫 Know about JJ's experiences, find his resume, and connect with him: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick/)**
 

@@ -58,9 +58,9 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
 
 ### 🥽 About JJ:
 
-- 💡 **JJ's interested in:**  **`Data Analytics 📊` `System Design/Operating Systems ⚙️` `Physics/Biology 🧫`**  
+- 💡 JJ's interested in:  **`Data Analytics 📊` `System Design/Operating Systems ⚙️` `Physics/Biology 🧫`**  
   
-- 💻 Ask me about: **`AI Development 🔭` `Machine Learning/Automation 🚀`**
+- 💻 Ask JJ about: **`AI Development 🔭` `Machine Learning/Automation 🚀`**
   
 - 🥼 JJ's currently working on: **[Building an AI Startup & Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
 
@@ -70,7 +70,7 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
 
 - 👨🏻‍🔬 JJ's looking for help with: **[Finding Spring 2024 & Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 🧑🏻‍🏫 Know about JJ's experiences, find his resume, and connect with him: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick/)**
+- 🧑🏻‍🏫 Learn about JJ's experiences, find his resume, and connect with him: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 🎓 JJ's pronouns are: **`He/Him/His`**
     

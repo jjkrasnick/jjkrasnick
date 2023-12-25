@@ -71,11 +71,6 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
 - 👨🏻‍🔬 JJ's looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 🧑🏻‍🏫 Know about JJ's experiences, find his resume, and connect with him: <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
-  
-- 👨🏻‍💻 JJ's projects are available at: <a href="https://github.com/jjkrasnick"><img alt="GitHub" title="GitHub" 
-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  
-- 📱 How to contact JJ: <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 - 🎓 JJ's pronouns are: **`He/Him/His`**
     
@@ -204,7 +199,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
   
 ### 📖 JJ's Blog Posts:
 
-|<a href="https://medium.com/@jjkrasnick"><img alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="jjkrasnick"></a>|
+|<a href="https://substack.com/@jjkrasnick"><img alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="jjkrasnick"></a>|
 |:---------:|
 |<a href="https://hashnode.com/@jjkrasnick"><img alt="HashNode" title="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="jjkrasnick"></a>|---|
 |<a href="https://dev.to/@jjkrasnick"><img alt="Dev.To" title="Dev.To" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="jjkrasnick"></a>| 

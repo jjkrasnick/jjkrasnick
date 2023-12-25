@@ -64,7 +64,7 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
   
 - 🥼 JJ's currently working on: **[Building an AI Startup & Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🎓 JJ's currently learning: **[Data Structures and Algorithms in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
+- 👨🏻‍🎓 JJ's currently learning: **[Data Structures & Algorithms in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
 
 - 🧠 JJ's looking to collaborate on: **[Building an AI Startup](https://www.linkedin.com/in/jjkrasnick/)**
 

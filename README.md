@@ -62,11 +62,11 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
   
 - 💻 Ask me about: **`AI Development 🔭` `Machine Learning/Automation 🚀`**
   
-- 🥼 JJ's currently working on: **[Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
+- 🥼 JJ's currently working on: **[Building an AI Startup & Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 👨🏻‍🎓 JJ's currently learning: **[Data Structures and Algorithms in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
 
-- 🧠 JJ's looking to collaborate on: **[An undergraduate-research project for the Spring of 2024, or a Spring 2024 internship](https://www.linkedin.com/in/jjkrasnick/)**
+- 🧠 JJ's looking to collaborate on: **[Building an AI Startup](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 👨🏻‍🔬 JJ's looking for help with: **[Finding Spring 2024 and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 

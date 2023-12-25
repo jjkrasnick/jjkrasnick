@@ -1,4 +1,4 @@
-# 🔬 Welcome to JJ Krasnick's GitHub Profile   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "40px" width="40px"/>
+# 🔬 Welcome to JJ's GitHub Profile   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "40px" width="40px"/>
 
 <h4>
   <h4 align= "center">

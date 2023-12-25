@@ -70,7 +70,7 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
 
 - 👨🏻‍🔬 JJ's looking for help with: **[Finding Fall 2023, Spring 2024, and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 🧑🏻‍🏫 Know about JJ's experiences, find his resume, and connect with him: <a href="https://linktr.ee/jjkrasnick"><img alt="LinkTree" title="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+- 🧑🏻‍🏫 Know about JJ's experiences, find his resume, and connect with him: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 🎓 JJ's pronouns are: **`He/Him/His`**
     

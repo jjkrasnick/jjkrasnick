@@ -64,11 +64,11 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
   
 - 🥼 JJ's currently working on: **[Building an AI Startup & Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🎓 JJ's currently learning: **[Data Structures & Algorithms in Python and C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
+- 👨🏻‍🎓 JJ's currently learning: **[Data Structures & Algorithms in Python & C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
 
 - 🧠 JJ's looking to collaborate on: **[Building an AI Startup](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🔬 JJ's looking for help with: **[Finding Spring 2024 and Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
+- 👨🏻‍🔬 JJ's looking for help with: **[Finding Spring 2024 & Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 🧑🏻‍🏫 Know about JJ's experiences, find his resume, and connect with him: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick/)**
 

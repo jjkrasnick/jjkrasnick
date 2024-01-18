@@ -26,7 +26,9 @@
   
 ### 🧬 Summary:
 
-JJ is an aspiring software engineer, data scientist; and a sophomore at Pepperdine University. He is ambitiously triple majoring in Computer Science, Mathematics, and Economics, with a minor in Data Science. Additionally, he is pursuing a professional certificate in Dispute Resolution from the Caruso School of Law at Pepperdine University, which boasts the number-one program in the country.
+JJ is an aspiring software engineer, data scientist, and a sophomore at Pepperdine University. 
+
+He is ambitiously triple majoring in Computer Science, Mathematics, and Economics, with a minor in Data Science. Additionally, he is pursuing a professional certificate in Dispute Resolution from the Caruso School of Law at Pepperdine University, which boasts the number-one program in the country.
 
 JJ's passion for technology and problem-solving is evident in his active participation in numerous hackathons. He is also deeply involved in data science research at Pepperdine and serves as a teaching assistant for Computer Science, further demonstrating his commitment to the field.
 

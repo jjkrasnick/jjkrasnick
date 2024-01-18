@@ -9,17 +9,9 @@
   
 <h4>
   <h4 align= "center">
-<p><a href="https://www.twitter.com/jjkrasnick"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/jjkrasnick"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
+<p> <a href="https://www.linkedin.com/in/jjkrasnick"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.hackerrank.com/jjkrasnick"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> </p>
 <h4>
   
-#
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Country&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citizenship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-|:---------:|:----------:|
-|<img src="https://img.freepik.com/free-vector/illustration-usa-flag_53876-18165.jpg?w=2000&t=st=1685468577~exp=1685469177~hmac=07af9be494be5bad97cd6798c434923d8e2ad5d781d6e4c5bc78899104da32b1" height="30">|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;United States Citizenship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|<img src="https://flaglane.com/download/canadian-flag/canadian-flag-graphic.png" height="30">|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Canadian Citizenship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|<img src="https://flaglane.com/download/swedish-flag/swedish-flag-graphic.png" height="30">|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swedish Citizenship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-
 <h2>
   <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&pause=1000&color=F9F9FF&center=true&vCenter=true&width=2000&height=200&lines=Hi+everyone%2C+I'm+JJ+Krasnick!+Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </h2>
@@ -34,23 +26,17 @@
   
 ### 🧬 Summary:
 
-JJ is a first-year at a top 50 nationally ranked school, [Pepperdine University](https://www.pepperdine.edu/academics/schools/seaver/)! Here, you can find a little bit more about JJ and the work that he has done. Thank you for visiting JJ's profile and for wanting to work with him!
+JJ is an aspiring software engineer, data scientist; and a sophomore at Pepperdine University. He is ambitiously triple majoring in Computer Science, Mathematics, and Economics, with a minor in Data Science. Additionally, he is pursuing a professional certificate in Dispute Resolution from the Caruso School of Law at Pepperdine University, which boasts the number-one program in the country.
 
-Majoring in Computer Science, Mathematics, Finance, and Data Science, JJ possesses a unique blend of technical skills that make me a strong candidate for software engineering and quantitative trader roles. JJ's experience in software engineering, AI/ML, and quantitative trading through research and personal projects has given him a solid foundation to excel in these fields.
+JJ's passion for technology and problem-solving is evident in his active participation in numerous hackathons. He is also deeply involved in data science research at Pepperdine and serves as a teaching assistant for Computer Science, further demonstrating his commitment to the field.
 
-JJ's expertise in natural language processing, computer vision, and machine learning aligns well with the requirements of AI roles. JJ has experience developing machine learning models using Python, TensorFlow, and other tools to analyze large datasets and create predictions with high accuracy. JJ's computer vision and natural language processing proficiency have allowed me to build systems that interpret and respond to visual and textual inputs.
+His professional experience includes a current software engineering internship at Forte, a company that promotes music education through a distance learning video platform. This role and several other internships have provided him with practical experience in the tech industry.
 
-In addition, JJ has completed personal projects demonstrating his software engineering skills, including building web applications and developing algorithms for data analysis. JJ has experience with programming languages like Python, Java, C++, C#, C, R, and SQL, as well as data modeling, statistical analysis, and visualization. These skills are essential for any role where he can leverage his knowledge to create innovative software solutions that solve complex problems.
+In addition to his academic and professional pursuits, JJ is an entrepreneur at heart. He is starting an AI startup and engaging with prominent venture capital firms like Y Combinator and Andreessen Horowitz. He is also about to join the Crescent Fund, a student-led VC firm in Southern California.
 
-As a quantitative trader, JJ's mathematical modeling, statistical analysis, and algorithmic trading proficiency make him a strong candidate for Quant roles. He has created trading strategies using quantitative methods, improving efficiency by 237.492%. His experience in financial modeling, portfolio optimization, and risk management enables him to analyze market trends and develop effective trading strategies.
+Beyond his technical and entrepreneurial endeavors, JJ is a dedicated advocate for social change. He has founded several nonprofits supporting individuals with disabilities and promoting animal adoption. His advocacy work also extends to improving safety on the Pacific Coast Highway.
 
-JJ has also researched extensively at Pepperdine University, North Carolina State University, and the Imperial College of London.
-
-Furthermore, JJ has participated in hackathons and coding competitions, which have allowed him to work collaboratively with other developers, solve challenging problems under pressure, and develop his presentation and communication skills.
-
-Finally,  JJ is pursuing a [Certificate in Conflict Management and Dispute Resolution](https://seaver.pepperdine.edu/communication/undergraduate/conflict-management/) at a top 45 Law School in the Caruso School of Law and the world's #1 ranked institution for Dispute Resolution at Straus Center for Dispute Resolution at Pepperdine University. This experience has honed his conflict resolution, negotiation, and communication skills, which are valuable in any role.
-
-JJ's diverse academic background and practical experience make him a strong candidate for any position. JJ is excited to bring his skills to bear on innovative projects in these great fields. 
+In summary, JJ is a multifaceted individual with a strong blend of technical expertise, entrepreneurial spirit, and social consciousness. His diverse experiences and commitments speak volumes about his potential as a future leader in the tech industry. 
 
 Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkrasnick) if you want to learn more!
 
@@ -71,8 +57,6 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
 - 👨🏻‍🔬 JJ's looking for help with: **[Finding Spring 2024 & Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 
 - 🧑🏻‍🏫 Learn about JJ's experiences, find his resume, and connect with him: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick/)**
-
-- 🎓 JJ's pronouns are: **`He/Him/His`**
     
 #
 
@@ -176,55 +160,13 @@ Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkra
 |:---------:|
 |<a href="https://www.jenkins.io/"><img alt="Jenkins" title="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="jjkrasnick"></a>|---|
 |<a href="https://www.atlassian.com/software/jira"><img alt="Jira" title="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="jjkrasnick"></a>|
-
-#
-
-### 💼 Freelance:
-
-|<a href="https://www.fiverr.com/jjkrasnick/"><img alt="Fiverr" title="Fjverr" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="jjkrasnick"></a>|
-|:---------:|
-|<a href="https://www.upwork.com/freelancers/~01d7101e2f0733afeb"><img alt="UpWork" title="UpWork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="jjkrasnick"></a>
-
-#
-
-### ⌨ Connect with JJ:
-
-| <a href="https://www.linkedin.com/in/jjkrasnick"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | <a href="https://www.beacons.ai/jjkrasnick"><img alt="LinkTree" title="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a> |
-:--------------:|:----------------:
-|<a href="https://www.leetcode.com/jjkrasnick"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>|<a href="https://www.hackerrank.com/jjkrasnick"><img alt="HackerRank" title="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>|
-|<a href="https://www.instagram.com/jjkrasnick"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>|<a href="https://www.tiktok.com/@jjkrasnick"><img alt="TikTok" title="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>|
-|<a href="https://www.twitch.tv/jjkrasnick"><img alt="Twitch" title="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>|<a href="https://www.youtube.com/@jjkrasnick"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>|
-
-#
-  
-### 📖 JJ's Blog Posts:
-
-|<a href="https://dev.to/@jjkrasnick"><img alt="Dev.To" title="Dev.To" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="jjkrasnick"></a>|
-|:---------:|
-|<a href="https://hashnode.com/@jjkrasnick"><img alt="HashNode" title="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="jjkrasnick"></a>| 
   
 #  
   
 
 ### 👨🏻‍🏭 JJ's Stats:
 
-Github Stats | Most Used Languages | Github Streak
-:-------------:|:---------------------:|:---------------:
-[![JJ Krasnick's Github Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&theme=dark)](https://github.com/jjkrasnick/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=jjkrasnick)|[![JJ Krasnick's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjkrasnick&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=jjkrasnick)
-
-| Github Stats Graph |
-|:----------------------:|
-|[![JJ Krasnick's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjkrasnick&theme=github_dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjkrasnick)|
-
-#
-  
-### 👨🏻‍⚕️ JJ's Projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=Credit-Card-Fraud-Detection)](https://github.com/jjkrasnick/Credit-Card-Fraud-Detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=diabetes-predictor)](https://github.com/jjkrasnick/diabetes-predictor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=covid-facemask-detection)](https://github.com/jjkrasnick/covid-facemask-detection)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=image-processing)](https://github.com/jjkrasnick/image-processing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=amazon-web-scraper)](https://github.com/jjkrasnick/amazon-web-scraper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jjkrasnick&theme=dark&show_icons=true&repo=automate-api-extraction)](https://github.com/jjkrasnick/automate-api-extraction)
-
+Github Stats |
+:-------------:|
+[![JJ Krasnick's Github Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&theme=dark)](https://github.com/jjkrasnick/github-readme-stats)|
 

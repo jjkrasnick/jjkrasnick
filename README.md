@@ -1,6 +1,6 @@
 # 🔬 Welcome to JJ's GitHub Profile   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "40px" width="40px"/>
 
-<div><a href="https://x.com/jjkrasnick"><img src="twitter.svg" width="19.5%" height=120 alt="Twitter JJ Krasnick"></a><a href="https://www.linkedin.com/in/jjkrasnick"><img src="linkedin.svg" width="19.5%" height=120 alt="LinkedIn JJ Krasnick"></a><a href="https://www.jjkrasnick.com"><img src="logo.svg" width="22%" height=120 alt="JJ's Personal Site"></a><a href="https://youtube.com/@jjkrasnick"><img src="youtube.svg" width="19.5%" height=120 alt="YouTube JJ Krasnick"></a><a href="https://www.twitch.tv/jjkrasnick"><img src="twitch.svg" width="19.5%" height=120 alt="Twitch JJ Krasnick"></a></div>
+<div><a href="https://x.com/jjkrasnick"><img src="readme/twitter.svg" width="19.5%" height=120 alt="Twitter JJ Krasnick"></a><a href="https://www.linkedin.com/in/jjkrasnick"><img src="linkedin.svg" width="19.5%" height=120 alt="LinkedIn JJ Krasnick"></a><a href="https://www.jjkrasnick.com"><img src="logo.svg" width="22%" height=120 alt="JJ's Personal Site"></a><a href="https://youtube.com/@jjkrasnick"><img src="youtube.svg" width="19.5%" height=120 alt="YouTube JJ Krasnick"></a><a href="https://www.twitch.tv/jjkrasnick"><img src="twitch.svg" width="19.5%" height=120 alt="Twitch JJ Krasnick"></a></div>
 
 
 <h4>

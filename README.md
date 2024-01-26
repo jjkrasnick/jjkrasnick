@@ -28,21 +28,21 @@
   
 ### 🧬 Summary:
 
-JJ is an aspiring software engineer, data scientist, and a sophomore at Pepperdine University. 
+JJ is an aspiring software engineer, data scientist, and sophomore at Pepperdine University. JJ is a LinkedIn Top Voice in Computer Science, with over 10,000 followers.
 
-He is ambitiously triple majoring in Computer Science, Mathematics, and Economics, with a minor in Data Science. Additionally, he is pursuing a professional certificate in Dispute Resolution from the Caruso School of Law at Pepperdine University, which boasts the number-one program in the country.
+He is ambitiously double majoring in Computer Science and Mathematics with a minor in Data Science. Additionally, he is pursuing a professional certificate in Dispute Resolution from the Caruso School of Law at Pepperdine University, which boasts the number-one program in the country.
 
 JJ's passion for technology and problem-solving is evident in his active participation in numerous hackathons. He is also deeply involved in data science research at Pepperdine and serves as a teaching assistant for Computer Science, further demonstrating his commitment to the field.
 
 His professional experience includes a current software engineering internship at Forte, a company that promotes music education through a distance learning video platform. This role and several other internships have provided him with practical experience in the tech industry.
 
-In addition to his academic and professional pursuits, JJ is an entrepreneur at heart. He is starting an AI startup and engaging with prominent venture capital firms like Y Combinator and Andreessen Horowitz. He is also about to join the Crescent Fund, a student-led VC firm in Southern California.
+In addition to his academic and professional pursuits, JJ is an entrepreneur at heart. He is starting an AI startup and engaging with prominent venture capital firms like Y Combinator and Andreessen Horowitz. He is also about to join the Crescent Fund, a student-led VC firm in Southern California. He is also interning at igniteXL, a VC firm based in San Francisco, CA, as a VC scout.
 
 Beyond his technical and entrepreneurial endeavors, JJ is a dedicated advocate for social change. He has founded several nonprofits supporting individuals with disabilities and promoting animal adoption. His advocacy work also extends to improving safety on the Pacific Coast Highway.
 
-In summary, JJ is a multifaceted individual with a strong blend of technical expertise, entrepreneurial spirit, and social consciousness. His diverse experiences and commitments speak volumes about his potential as a future leader in the tech industry. 
+In summary, JJ is a multifaceted individual with a strong blend of technical expertise, entrepreneurial spirit, and social consciousness. His diverse experiences and commitments speak volumes about his potential as a future leader in the tech industry.
 
-Don't hesitate to contact JJ on his [LinkedIn](https://www.linkedin.com/in/jjkrasnick) if you want to learn more!
+Don't hesitate to contact JJ on [LinkedIn](https://www.linkedin.com/in/jjkrasnick) to learn more!
 
 #
 

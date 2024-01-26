@@ -28,21 +28,23 @@
   
 ### 🧬 Summary:
 
-JJ is an aspiring software engineer, data scientist, and sophomore at Pepperdine University. JJ is a LinkedIn Top Voice in Computer Science, with over 10,000 followers.
+As a LinkedIn Top Voice in Computer Science with over 10,000 followers, JJ has established himself as a notable emerging talent in the tech world.
 
-He is ambitiously double majoring in Computer Science and Mathematics with a minor in Data Science. Additionally, he is pursuing a professional certificate in Dispute Resolution from the Caruso School of Law at Pepperdine University, which boasts the number-one program in the country.
+JJ is an aspiring software engineer and data scientist, a sophomore at Pepperdine University - Seaver College. Pursuing an ambitious double major in Computer Science and Mathematics with a minor in Data Science, JJ's academic prowess is complemented by his pursuit of a professional certificate in Dispute Resolution from Pepperdine's Caruso School of Law, home to the country's top program in this field.
 
-JJ's passion for technology and problem-solving is evident in his active participation in numerous hackathons. He is also deeply involved in data science research at Pepperdine and serves as a teaching assistant for Computer Science, further demonstrating his commitment to the field.
+JJ's passion for technology and problem-solving shines through his active participation in numerous hackathons and his involvement in data science research at Pepperdine. As a teaching assistant in Computer Science, he demonstrates a deep commitment to his field, helping others quickly grasp complex concepts.
 
-His professional experience includes a current software engineering internship at Forte, a company that promotes music education through a distance learning video platform. This role and several other internships have provided him with practical experience in the tech industry.
+Professionally, JJ is interning as a software engineer and marketing at Forte, a pioneering company in music education through distance learning. This role and several other internships have provided him with valuable industry experience, honing his skills in real-world applications.
 
-In addition to his academic and professional pursuits, JJ is an entrepreneur at heart. He is starting an AI startup and engaging with prominent venture capital firms like Y Combinator and Andreessen Horowitz. He is also about to join the Crescent Fund, a student-led VC firm in Southern California. He is also interning at igniteXL, a VC firm based in San Francisco, CA, as a VC scout.
+JJ's technical expertise includes Python, JavaScript, TypeScript, and Java proficiency. He's adept at working with frameworks such as React and Node.js and is skilled in database management using SQL and NoSQL databases. His familiarity with machine learning and data analysis tools like TensorFlow and Pandas sets him apart as a versatile developer.
 
-Beyond his technical and entrepreneurial endeavors, JJ is a dedicated advocate for social change. He has founded several nonprofits supporting individuals with disabilities and promoting animal adoption. His advocacy work also extends to improving safety on the Pacific Coast Highway.
+As an entrepreneur, JJ is launching an AI startup, actively engaging with VC firms like Y Combinator and Andreessen Horowitz. He's part of the Crescent Fund, a student-led VC firm in Southern California, and is interning at igniteXL, a VC firm based in San Francisco, as a VC scout.
 
-In summary, JJ is a multifaceted individual with a strong blend of technical expertise, entrepreneurial spirit, and social consciousness. His diverse experiences and commitments speak volumes about his potential as a future leader in the tech industry.
+JJ's blend of technical skills, entrepreneurial initiatives, and social consciousness led him to develop apps for people to promote change in the world. Notably, he developed a health-focused app using React Native, which gained significant attention for its user-friendly interface and innovative features. Another project involved developing a web application for nonprofit management, utilizing his full-stack development skills.
 
-Don't hesitate to contact JJ on [LinkedIn](https://www.linkedin.com/in/jjkrasnick) to learn more!
+Outside the tech sphere, JJ is a dedicated advocate for social change. He has founded nonprofits supporting individuals with disabilities and promoting animal adoption. His advocacy also includes initiatives to improve safety on the Pacific Coast Highway.
+
+For insights into the intersection of technology, entrepreneurship, and social impact, connect with JJ on LinkedIn.
 
 #
 

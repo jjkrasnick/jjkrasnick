@@ -34,11 +34,11 @@ JJ is an aspiring software engineer and data scientist, a sophomore at Pepperdin
 
 JJ's passion for technology and problem-solving shines through his active participation in numerous hackathons and his involvement in data science research at Pepperdine. As a teaching assistant in Computer Science, he demonstrates a deep commitment to his field, helping others quickly grasp complex concepts.
 
-Professionally, JJ is interning as a software engineer and marketing at Forte, a pioneering company in music education through distance learning. This role and several other internships have provided him with valuable industry experience, honing his skills in real-world applications.
+Professionally, JJ is interning as a software engineer and marketing manager at Forte, a pioneering company in music education through distance learning. This role and several other internships have provided him with valuable industry experience, honing his skills for real-world applications.
 
 JJ's technical expertise includes Python, JavaScript, TypeScript, and Java proficiency. He's adept at working with frameworks such as React and Node.js and is skilled in database management using SQL and NoSQL databases. His familiarity with machine learning and data analysis tools like TensorFlow and Pandas sets him apart as a versatile developer.
 
-As an entrepreneur, JJ is launching an AI startup, actively engaging with VC firms like Y Combinator and Andreessen Horowitz. He's part of the Crescent Fund, a student-led VC firm in Southern California, and is interning at igniteXL, a VC firm based in San Francisco, as a VC scout.
+As an entrepreneur, JJ is launching an AI startup and actively engaging with VC firms like Y Combinator and Andreessen Horowitz. He's part of the Crescent Fund, a student-led VC firm in Southern California, and is interning at igniteXL, a VC firm based in San Francisco, as a VC scout.
 
 JJ's blend of technical skills, entrepreneurial initiatives, and social consciousness led him to develop apps for people to promote change in the world. Notably, he developed a health-focused app using React Native, which gained significant attention for its user-friendly interface and innovative features. Another project involved developing a web application for nonprofit management, utilizing his full-stack development skills.
 

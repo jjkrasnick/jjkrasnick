@@ -107,14 +107,6 @@ For insights into the intersection of technology, entrepreneurship, and social i
 
 #
 
-### 🖍️ Design:
-
-| <a href="https://www.adobe.com/uk/products/photoshop-lightroom.html?mv=search&ef_id=:G:s&s_kwcid=AL!3085!10!79577340794785!79577317913976&msclkid=06e9fc56b5981e3e9d2a98d98a6d3dac"><img alt="Adobe Lightroom" title="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.adobe.com/uk/products/premiere/landpb.html?mv=search&ef_id=:G:s&s_kwcid=AL!3085!10!79714778261701!79714757741183&msclkid=ea3f164c96611ce0713472c3d030f37d"><img alt="Adobe Premiere Pro" title="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.canva.com/"><img alt="Canva" title="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.figma.com/login"><img alt="Figma" title="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.pexels.com/"><img alt="Pexels" title="Pexels" src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white" alt="jjkrasnick"></a> |
-|:-:|:-:|:-:|:-:|:-:|
-| <a href="https://www.adobe.com/uk/products/photoshop/landpa.html?mv=search&ef_id=:G:s&s_kwcid=AL!3085!10!79371181576219!79371160303221&msclkid=470bb9e244b617cbdadadd6d05993a0c"><img alt="Adobe Photoshop" title="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="jjkrasnick"></a> | <a href="https://www.behance.net/"><img alt="Behance" title="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="jjkrasnick"></a> | <a href="https://dribbble.com/"><img alt="Dribbble" title="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.framer.com/"><img alt="Framer" title="Framer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="jjkrasnick"></a> | <a href="https://unsplash.com/"><img alt="Unsplash" title="Unsplash" src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" alt="jjkrasnick"></a> |
-
-#
-
 ### 🖼️ Frameworks and Libraries:
 
 | <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img alt=".NET" title=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="jjkrasnick"></a> | <a href="https://spark.apache.org/"><img alt="Apache Spark" title="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="jjkrasnick"></a> | <a href="https://www.docker.com/"><img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="jjkrasnick"></a> | <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.gitkraken.com/"><img alt="GitKraken" title="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="jjkrasnick"></a> | <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.postman.com/"><img alt="Postman" title="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="jjkrasnick"></a> | <a href="https://threejs.org/"><img alt="ThreeJS" title="ThreeJS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="jjkrasnick"></a> |
@@ -159,16 +151,6 @@ For insights into the intersection of technology, entrepreneurship, and social i
 |<a href="https://spring.io/projects/spring-security"><img alt="Spring Security" title="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="jjkrasnick"></a>|
 
 #
-
-### ⌚ Workflow Platforms:
-
-|<a href="https://airflow.apache.org/"><img alt="Apache Airflow" title="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="jjkrasnick"></a>|
-|:---------:|
-|<a href="https://www.jenkins.io/"><img alt="Jenkins" title="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="jjkrasnick"></a>|---|
-|<a href="https://www.atlassian.com/software/jira"><img alt="Jira" title="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="jjkrasnick"></a>|
-  
-#  
-  
 
 ### 👨🏻‍🏭 JJ's Stats:
 

@@ -1,7 +1,5 @@
 # 🔬 Welcome to JJ's GitHub Profile   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height= "40px" width="40px"/>
 
-<div><a href="https://x.com/jjkrasnick"><img src="twitter.svg" width="19.5%" height=120 alt="Twitter - JJ Krasnick"></a><a href="https://www.linkedin.com/in/jjkrasnick/"><img src="linkedin.svg" width="19.5%" height=120 alt="LinkedIn - JJ Krasnick"></a><a href="https://www.jjkrasnick.com"><img src="logo.svg" width="22%" height=120 alt="JJ's Personal Site"></a><a href="https://www.youtube.com/@jjkrasnick"><img src="youtube.svg" width="19.5%" height=120 alt="YouTube - JJ Krasnick"></a><a href="https://twitch.tv/jjkrasnick"><img src="twitch.svg" width="19.5%" height=120 alt="Twitch - JJ Krasnick"></a></div>
-
 <h4>
   <h4 align= "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=50&pause=1000&color=F9F9FF&center=true&vCenter=true&width=2000&height=200&lines=I+am+a+full-stack+web+and+app+developer;I+am+studying+physics+and+quantum+computing;I+am+learning+more+about+AI+and+machine+learning;I+am+always+open+to+learning+new+skills" alt="Typing SVG" /></a>

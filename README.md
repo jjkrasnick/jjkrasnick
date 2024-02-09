@@ -62,18 +62,9 @@ For insights into the intersection of technology, entrepreneurship, and social i
     
 #
 
-<h2 align="center">💻 Languages, Tools, and Frameworks that JJ uses:</h2>
+<h2 align="center">💻 Languages, Tools, & Frameworks that JJ uses:</h2>
 
 ###
-
-### 📊 Analytical Tools:
-
-|<a href="https://analytics.google.com/analytics/web/provision/#/provision"><img alt="Google Analytics" title="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="jjkrasnick"></a>|
-|:---------:|
-|<a href="https://www.elastic.co/kibana/"><img alt="Kibana" title="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" alt="jjkrasnick"></a>|---|
-|<a href="https://www.tableau.com/en-gb"><img alt="Tableau" title="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="jjkrasnick"></a>|
-
-#
 
 ### 🤖 Artificial Intelligence Tools:
 
@@ -103,7 +94,7 @@ For insights into the intersection of technology, entrepreneurship, and social i
 
 #
 
-### 🖼️ Frameworks and Libraries:
+### 🖼️ Frameworks & Libraries:
 
 | <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img alt=".NET" title=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="jjkrasnick"></a> | <a href="https://spark.apache.org/"><img alt="Apache Spark" title="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="jjkrasnick"></a> | <a href="https://www.docker.com/"><img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="jjkrasnick"></a> | <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" title="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.gitkraken.com/"><img alt="GitKraken" title="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="jjkrasnick"></a> | <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="jjkrasnick"></a> | <a href="https://www.postman.com/"><img alt="Postman" title="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="jjkrasnick"></a> | <a href="https://threejs.org/"><img alt="ThreeJS" title="ThreeJS" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="jjkrasnick"></a> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -128,15 +119,6 @@ For insights into the intersection of technology, entrepreneurship, and social i
 |<a href="https://flutter.dev/"><img alt="React Native" title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="jjkrasnick"></a>|
 |:---------:|
 |<a href="https://reactnative.dev/"><img alt="React Native" title="Spring Security" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="jjkrasnick"></a>|
-
-#
-
-### ⚙️ Object-Relational Mapping (ORM) Libraries:
-
-|<a href="https://hibernate.org/"><img alt="Hibernate" title="Java ORM - Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="jjkrasnick"></a>|
-|:---------:|
-|<a href="https://www.prisma.io/"><img alt="Prisma" title="Node.js, TypeScript ORM - Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="jjkrasnick"></a>|---|
-|<a href="https://sequelize.org/"><img alt="Sequelize" title="Node.js, TypeScript ORM - Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="jjkrasnick"></a>|
 
 #
 

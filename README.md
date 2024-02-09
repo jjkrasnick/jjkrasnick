@@ -26,19 +26,17 @@
   
 ### 🧬 Summary:
 
-As a LinkedIn Top Voice in Computer Science with over 10,000 followers, JJ has established himself as a notable emerging talent in the tech world.
+As a LinkedIn Top Voice in Computer Science, JJ has established himself as someone dedicated to Computer Science.
 
-JJ is an aspiring software engineer and data scientist, a sophomore at Pepperdine University - Seaver College. Pursuing an ambitious double major in Computer Science and Mathematics with a minor in Data Science, JJ's academic prowess is complemented by his pursuit of a professional certificate in Dispute Resolution from Pepperdine's Caruso School of Law, home to the country's top program in this field.
+JJ is an aspiring software engineer and data scientist, a sophomore at Pepperdine University. Pursuing a double major in Computer Science and Mathematics with a minor in Data Science, JJ's academic ability is complemented by his pursuit of a professional certificate in Dispute Resolution from Pepperdine's Caruso School of Law, home to the country's top program.
 
 JJ's passion for technology and problem-solving shines through his active participation in numerous hackathons and his involvement in data science research at Pepperdine. As a teaching assistant in Computer Science, he demonstrates a deep commitment to his field, helping others quickly grasp complex concepts.
 
-Professionally, JJ is interning as a software engineer and marketing manager at Forte, a pioneering company in music education through distance learning. This role and several other internships have provided him with valuable industry experience, honing his skills for real-world applications.
+JJ is interning as a software engineer at Forte, a pioneering company in music education through distance learning. This role and several other internships have provided him with valuable industry experience, honing his skills in real-world applications.
 
-JJ's technical expertise includes Python, JavaScript, TypeScript, and Java proficiency. He's adept at working with frameworks such as React and Node.js and is skilled in database management using SQL and NoSQL databases. His familiarity with machine learning and data analysis tools like TensorFlow and Pandas sets him apart as a versatile developer.
+JJ is launching an AI startup, actively engaging with VC firms like Y Combinator and Andreessen Horowitz. He's part of the Crescent Fund, a student-led VC firm in Southern California, and is interning at igniteXL, a VC firm based in San Francisco, as a VC scout.
 
-As an entrepreneur, JJ is launching an AI startup and actively engaging with VC firms like Y Combinator and Andreessen Horowitz. He's part of the Crescent Fund, a student-led VC firm in Southern California, and is interning at igniteXL, a VC firm based in San Francisco, as a VC scout.
-
-Outside the tech sphere, JJ is a dedicated advocate for social change. He has founded nonprofits supporting individuals with disabilities and promoting animal adoption. His advocacy also includes initiatives to improve safety on the Pacific Coast Highway.
+JJ is a dedicated advocate for social change. He has founded nonprofits supporting individuals with disabilities and promoting animal adoption. His advocacy also includes initiatives to improve safety on the Pacific Coast Highway.
 
 For insights into the intersection of technology, entrepreneurship, and social impact, connect with JJ on LinkedIn.
 

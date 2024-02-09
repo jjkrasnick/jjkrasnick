@@ -38,8 +38,6 @@ JJ's technical expertise includes Python, JavaScript, TypeScript, and Java profi
 
 As an entrepreneur, JJ is launching an AI startup and actively engaging with VC firms like Y Combinator and Andreessen Horowitz. He's part of the Crescent Fund, a student-led VC firm in Southern California, and is interning at igniteXL, a VC firm based in San Francisco, as a VC scout.
 
-JJ's blend of technical skills, entrepreneurial initiatives, and social consciousness led him to develop apps for people to promote change in the world. Notably, he developed a health-focused app using React Native, which gained significant attention for its user-friendly interface and innovative features. Another project involved developing a web application for nonprofit management, utilizing his full-stack development skills.
-
 Outside the tech sphere, JJ is a dedicated advocate for social change. He has founded nonprofits supporting individuals with disabilities and promoting animal adoption. His advocacy also includes initiatives to improve safety on the Pacific Coast Highway.
 
 For insights into the intersection of technology, entrepreneurship, and social impact, connect with JJ on LinkedIn.
@@ -147,12 +145,3 @@ For insights into the intersection of technology, entrepreneurship, and social i
 |<a href="https://snyk.io/?utm_medium=paid-search&utm_source=bing&utm_campaign=gs_sn:-brand-ecpc&utm_content=br_ex&utm_term=snyk&msclkid=0f99daec57b01f78aca0be676da6afaf"><img alt="Snyk" title="Snyk" src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="jjkrasnick"></a>|
 |:---------:|
 |<a href="https://spring.io/projects/spring-security"><img alt="Spring Security" title="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="jjkrasnick"></a>|
-
-#
-
-### 👨🏻‍🏭 JJ's Stats:
-
-Github Stats |
-:-------------:|
-[![JJ Krasnick's Github Stats](https://github-readme-stats.vercel.app/api?username=jjkrasnick&show_icons=true&theme=dark)](https://github.com/jjkrasnick/github-readme-stats)|
-

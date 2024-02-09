@@ -30,6 +30,8 @@ As a LinkedIn Top Voice in Computer Science, JJ has established himself as someo
 
 JJ is an aspiring software engineer and data scientist, a sophomore at Pepperdine University. Pursuing a double major in Computer Science and Mathematics with a minor in Data Science, JJ's academic ability is complemented by his pursuit of a professional certificate in Dispute Resolution from Pepperdine's Caruso School of Law, home to the country's top program.
 
+JJ is a lifelong learner. He has completed numerous courses in AI, Machine Learning, and various programming languages like Python, C++, SQL, and many more. He hopes to pursue a Master's in Computer Science and an MBA or an Engineering Management degree.
+
 JJ's passion for technology and problem-solving shines through his active participation in numerous hackathons and his involvement in data science research at Pepperdine. As a teaching assistant in Computer Science, he demonstrates a deep commitment to his field, helping others quickly grasp complex concepts.
 
 JJ is interning as a software engineer at Forte, a pioneering company in music education through distance learning. This role and several other internships have provided him with valuable industry experience, honing his skills in real-world applications.

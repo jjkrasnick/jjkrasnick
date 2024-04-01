@@ -52,7 +52,7 @@ For insights into the intersection of technology, entrepreneurship, and social i
   
 - 🥼 JJ's currently working on: **[Building an AI Startup & Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🎓 JJ's currently learning: **[Data Structures & Algorithms in C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
+- 👨🏻‍🎓 JJ's currently learning: **[Data Structures & Algorithms in C++](https://www.leetcode.com/jjkrasnick)**
 
 - 🧠 JJ's looking to collaborate on: **[Building an AI Startup & Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
 

@@ -119,11 +119,3 @@ For insights into the intersection of technology, entrepreneurship, and social i
 |<a href="https://flutter.dev/"><img alt="React Native" title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="jjkrasnick"></a>|
 |:---------:|
 |<a href="https://reactnative.dev/"><img alt="React Native" title="Spring Security" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="jjkrasnick"></a>|
-
-#
-
-### 🔒 Security Platforms:
-
-|<a href="https://snyk.io/?utm_medium=paid-search&utm_source=bing&utm_campaign=gs_sn:-brand-ecpc&utm_content=br_ex&utm_term=snyk&msclkid=0f99daec57b01f78aca0be676da6afaf"><img alt="Snyk" title="Snyk" src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="jjkrasnick"></a>|
-|:---------:|
-|<a href="https://spring.io/projects/spring-security"><img alt="Spring Security" title="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="jjkrasnick"></a>|

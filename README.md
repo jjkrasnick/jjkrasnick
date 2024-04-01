@@ -44,25 +44,25 @@ For insights into the intersection of technology, entrepreneurship, and social i
 
 #
 
-### 🥽 About JJ:
+### 🥽 About:
 
-- 💡 JJ's interested in:  **`Data Analytics 📊` `System Design/Operating Systems ⚙️` `Physics/Biology 🧫`**  
+- 💡 JJ's interested in:  **`Data Science 📊` `Operating Systems ⚙️` `Chemistry 🧫`**  
   
-- 💻 Ask JJ about: **`AI Development 🔭` `Machine Learning/Automation 🚀`**
+- 💻 Ask JJ about: **`AI Development 🔭` `Machine Learning 🚀`**
   
 - 🥼 JJ's currently working on: **[Building an AI Startup & Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🎓 JJ's currently learning: **[Data Structures & Algorithms in Python & C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
+- 👨🏻‍🎓 JJ's currently learning: **[Data Structures & Algorithms in C++ on LeetCode](https://www.leetcode.com/jjkrasnick)**
 
-- 🧠 JJ's looking to collaborate on: **[Building an AI Startup](https://www.linkedin.com/in/jjkrasnick/)**
+- 🧠 JJ's looking to collaborate on: **[Building an AI Startup & Undergraduate Research](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 👨🏻‍🔬 JJ's looking for help with: **[Finding Spring 2024 & Summer 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
+- 👨🏻‍🔬 JJ's looking for help with: **[Finding Summer & Fall 2024 internships](https://www.linkedin.com/in/jjkrasnick/)**
 
-- 🧑🏻‍🏫 Learn about JJ's experiences, find his resume, and connect with him: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick/)**
+- 🧑🏻‍🏫 Learn about JJ's experiences, find his resume, & connect with him: **[JJ's LinkedIn](https://www.linkedin.com/in/jjkrasnick/)**
     
 #
 
-<h2 align="center">💻 Languages, Tools, & Frameworks that JJ uses:</h2>
+<h2 align="center">💻 Languages, Tools, & Frameworks:</h2>
 
 ###
 

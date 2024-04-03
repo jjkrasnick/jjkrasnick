@@ -26,21 +26,7 @@
   
 ### 🧬 Summary:
 
-As a LinkedIn Top Voice in Computer Science, JJ has established himself as someone dedicated to Computer Science.
-
-JJ is an aspiring software engineer and data scientist, a sophomore at Pepperdine University. Pursuing a double major in Computer Science and Mathematics with a minor in Data Science, JJ's academic ability is complemented by his pursuit of a professional certificate in Dispute Resolution from Pepperdine's Caruso School of Law, home to the country's top program.
-
-JJ is a lifelong learner. He has completed numerous courses in AI, Machine Learning, and various programming languages like Python, C++, SQL, and many more. He hopes to pursue a Master's in Computer Science and an MBA or an Engineering Management degree.
-
-JJ's passion for technology and problem-solving shines through his active participation in numerous hackathons and his involvement in data science research at Pepperdine. As a teaching assistant in Computer Science, he demonstrates a deep commitment to his field, helping others quickly grasp complex concepts.
-
-JJ is interning as a software engineer at Forte, a pioneering company in music education through distance learning. This role and several other internships have provided him with valuable industry experience, honing his skills in real-world applications.
-
-JJ is launching an AI startup, actively engaging with VC firms like Y Combinator and Andreessen Horowitz. He's part of the Crescent Fund, a student-led VC firm in Southern California, and is interning at igniteXL, a VC firm based in San Francisco, as a VC scout.
-
-JJ is a dedicated advocate for social change. He has founded nonprofits supporting individuals with disabilities and promoting animal adoption. His advocacy also includes initiatives to improve safety on the Pacific Coast Highway.
-
-For insights into the intersection of technology, entrepreneurship, and social impact, connect with JJ on LinkedIn.
+Follow me for more tech content: @jjkrasnick
 
 #
 

@@ -17,7 +17,7 @@
 - 👨🏻‍🎓 JJ is learning: **[Data Structures & Algorithms in C++](https://www.leetcode.com/jjkrasnick)**
   
 - 💸 Tech, Finance, & Productivity Content: 
-  - Look under my profile for my social media accounts: **@jjkrasnick** on all social media platforms.
+  - **@jjkrasnick** everywhere.
 
 #
 
